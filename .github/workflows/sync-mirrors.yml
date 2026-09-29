@@ -1,0 +1,25 @@
+name: Sync mirrors from FMHY
+
+on:
+  schedule:
+    - cron: '0 4 * * *'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 20
+      - run: node scripts/sync-mirrors.mjs
+      - run: |
+          git config user.name "mirrors-bot"
+          git config user.email "mirrors-bot@users.noreply.github.com"
+          git add config/mirrors.json
+          git diff --cached --quiet || git commit -m "Update mirrors from FMHY"
+          git push
