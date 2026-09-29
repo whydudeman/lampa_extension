@@ -54,21 +54,24 @@ Many sources require a `Referer`/`Origin` header on HLS segments or don't send C
 
 ## Bundled providers
 
-| Provider | API | Result | Notes |
-|---|---|---|---|
-| **VidRift** | `embed.vidrift.net/api/boot/{movie/ID \| tv/ID/S/E}` | Stable | Plain JSON, CORS `*`, HLS via `relay.vidrift.net` without Referer, VTT subtitles in many languages incl. Russian. Found through 7Movies. |
-| **VidLove (beta)** | `api.vidlove.cc/{movie?id= \| tv?id=&season=&episode=}&mode=json&hevc=0` | ~50% of attempts | Plain JSON. Their `whysosigmabro.cfd` proxy often answers 503; provider retries up to 3 times. Found through 67Movies. Needs a browser User-Agent. |
+| Provider | API | TV | Browser (lampa.mx) | Notes |
+|---|---|---|---|---|
+| **VidRift** | `embed.vidrift.net/api/boot/...`, fallback `/api/source/...?provider=vaplayer` | Works | 403 on stream (Origin) | Plain JSON, CORS `*`. Many subtitle languages incl. Russian. |
+| **VixSrc** | `vixsrc.to/api/{movie/ID \| tv/ID/S/E}` → embed page (`window.streams`, token, expires) | Expected to work | No CORS on API/embed page | Standard HLS AES-128, English audio by default (`lang=en`), subtitles inside the stream. 480p/720p H.264. |
 
-## FMHY starred sites — survey (2026-09-30)
+Test rule: a source is kept if the whole chain works from a script that sends **no** Origin/Referer — that is what a TV player does.
 
-| Site | Backend | Usable |
-|---|---|---|
-| Cinejoy | `api.wing.st/g`, request/response encrypted with WASM (ECDH + AES-GCM) | No — deliberate anti-scraping |
-| Movy | `api.wecollege.net/{server}/sources?...&enc=2`, encrypted response | No — deliberate anti-scraping |
-| PopcornMovies / BingeBox | Cloudflare challenge on the site | No — unreachable from Lampa |
-| 7Movies | embeds VidRift | Yes → VidRift |
-| Flixer | `plsdontscrapemelove.flixer.gd`, WASM-decoded sources | No — deliberate anti-scraping |
-| Rive | closes the inspection browser on load | Not checked |
-| 67Movies | embeds VidLove | Yes → VidLove |
+## Survey results (2026-09-30)
+
+| Player / site | Result |
+|---|---|
+| VidRift (via 7Movies) | ✅ added |
+| VixSrc (via many Multi-Server sites) | ✅ added |
+| VidLove (via 67Movies) | ❌ API forbids foreign Origin; stream proxy often 503 — failed on TV |
+| Cinejoy, Movy, Flixer, VidRock, VidNest, CineSrc | ❌ encrypted payloads / crypto challenge |
+| VidZee, xpass, moviesapi | ❌ 403 without their own Referer (would fail on TV too) |
+| PrimeSrc | ❌ only file-host keys (Filemoon/Voe) behind obfuscated pages |
+| PopcornMovies | ❌ Cloudflare challenge |
+| vidsync, vidsuper, 1embed, vidking, zxcstream | ❌ down or not reachable |
 
 Rule of thumb for adding more: open the site, find which embed player it uses, and check whether that player's API returns stream URLs as plain JSON. Skip anything that encrypts the payload.

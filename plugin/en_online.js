@@ -332,6 +332,65 @@
     }
   });
 
+  function vixsrcApiPath(request) {
+    if (request.type === 'tv') return '/api/tv/' + request.tmdbId + '/' + request.season + '/' + request.episode;
+    return '/api/movie/' + request.tmdbId;
+  }
+
+  function matchFirst(text, pattern) {
+    var match = text.match(pattern);
+    return match ? match[1] : '';
+  }
+
+  function parseVixsrcServers(html) {
+    try {
+      return JSON.parse(matchFirst(html, /window\.streams\s*=\s*(\[[\s\S]*?\]);?\s*\n/) || '[]');
+    } catch (parseError) {
+      return [];
+    }
+  }
+
+  function vixsrcPlaylistUrl(serverUrl, html) {
+    var token = matchFirst(html, /['"]token['"]\s*:\s*['"]([^'"]+)['"]/);
+    var expires = matchFirst(html, /['"]expires['"]\s*:\s*['"]([^'"]+)['"]/);
+    var fullHd = /window\.canPlayFHD\s*=\s*true/.test(html);
+    return serverUrl + (serverUrl.indexOf('?') === -1 ? '?' : '&') +
+      'token=' + token + '&expires=' + expires + (fullHd ? '&h=1' : '') + '&lang=en';
+  }
+
+  registerProvider({
+    name: 'vixsrc',
+    title: 'VixSrc',
+    site: 'vixsrc',
+    hosts: ['https://vixsrc.to'],
+    probePath: '/api/movie/550',
+    resolve: function (context, onStreams, onError) {
+      var host = context.host;
+      context.network.timeout(20000);
+      context.network.native(context.withProxy(host + vixsrcApiPath(context.request)), function (json) {
+        var data = typeof json === 'string' ? JSON.parse(json) : json;
+        if (!data || !data.src) return onStreams([]);
+        context.network.native(context.withProxy(absoluteUrl(host, data.src)), function (html) {
+          var streams = parseVixsrcServers(html).filter(function (server) {
+            return server.url;
+          }).map(function (server) {
+            return {
+              label: server.name || 'Server',
+              info: 'HLS · EN audio · built-in subs',
+              url: vixsrcPlaylistUrl(server.url, html),
+              subtitles: false
+            };
+          });
+          onStreams(streams);
+        }, function () {
+          onError('embed page failed');
+        }, false, { dataType: 'text' });
+      }, function () {
+        onError('not found or blocked');
+      }, false, { dataType: 'text' });
+    }
+  });
+
   window.EnOnline = {
     version: VERSION,
     registerProvider: registerProvider

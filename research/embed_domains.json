@@ -1,0 +1,711 @@
+{
+ "www.moviefone.com": [
+  "aether",
+  "cinecat",
+  "cinefork",
+  "fmfau",
+  "icefy",
+  "rizzstream",
+  "streamwatch"
+ ],
+ "player.vimeo.com": [
+  "aether",
+  "cinecat",
+  "cinefork",
+  "freeintertv",
+  "icefy",
+  "moovie",
+  "rizzstream",
+  "streamwatch"
+ ],
+ "fembox.aether.cx": [
+  "aether"
+ ],
+ "fed-similar.up.railway.app": [
+  "cinefork",
+  "icefy",
+  "rizzstream",
+  "streamwatch"
+ ],
+ "fed-api.pstream.mov": [
+  "cinefork",
+  "icefy",
+  "rizzstream",
+  "streamwatch"
+ ],
+ "webservice.fanart.tv": [
+  "basement",
+  "pstreamfork"
+ ],
+ "api.insertunit.ws": [
+  "rizzstream"
+ ],
+ "theemoviedb.hexa.su": [
+  "rizzstream"
+ ],
+ "enc-dec.app": [
+  "rizzstream"
+ ],
+ "wsrv.nl": [
+  "cinebygdn"
+ ],
+ "sub.vdrk.site": [
+  "atlantic"
+ ],
+ "vixcloud.co": [
+  "streamingunity"
+ ],
+ "streamingunity.fun": [
+  "streamingunity"
+ ],
+ "occ-0-58-64.1.nflxso.net": [
+  "uniquestream"
+ ],
+ "m.media-amazon.com": [
+  "fsharetv",
+  "movienestbd"
+ ],
+ "jsc.adskeeper.co.uk": [
+  "fsharetv"
+ ],
+ "subpanda.com": [
+  "fsharetv"
+ ],
+ "scontent-bom2-4.xx.fbcdn.net": [
+  "subsl"
+ ],
+ "scontent-bom5-1.xx.fbcdn.net": [
+  "subsl"
+ ],
+ "yesmovies.ag": [
+  "yesmovie"
+ ],
+ "ww2.yesmovies.ag": [
+  "yesmovie"
+ ],
+ "h5-static.aoneroom.com": [
+  "moviebox"
+ ],
+ "h5.aoneroom.com": [
+  "moviebox"
+ ],
+ "gamixo.org": [
+  "moviebox"
+ ],
+ "videodownloader.site": [
+  "moviebox"
+ ],
+ "veyranews.com": [
+  "moviebox"
+ ],
+ "doresumes.careers": [
+  "moviebox"
+ ],
+ "ifunny.club": [
+  "moviebox"
+ ],
+ "wherepdf.com": [
+  "moviebox"
+ ],
+ "vskit.online": [
+  "moviebox"
+ ],
+ "layla.wtf": [
+  "1shows"
+ ],
+ "www.angel.com": [
+  "1shows"
+ ],
+ "vimeo.com": [
+  "moovie",
+  "vidbox"
+ ],
+ "noembed.com": [
+  "moovie"
+ ],
+ "hahaevilcraft.site": [
+  "moovie"
+ ],
+ "embed.filmu.in": [
+  "flyflix",
+  "moovie",
+  "snowstream"
+ ],
+ "vidrock.net": [
+  "cinenest",
+  "cinewave",
+  "flixzy",
+  "flnk",
+  "moovie",
+  "pawflix",
+  "snowstream",
+  "vidbox"
+ ],
+ "player.videasy.net": [
+  "cinenest",
+  "cinewave",
+  "flixzy",
+  "flnk",
+  "flyflix",
+  "moovie",
+  "moviestowatch",
+  "pawflix"
+ ],
+ "zxcstream.xyz": [
+  "flnk",
+  "moovie"
+ ],
+ "jellify.live": [
+  "moovie"
+ ],
+ "soapy.to": [
+  "aurorascreen"
+ ],
+ "player.vidplus.pro": [
+  "vidbox"
+ ],
+ "player.videasy.to": [
+  "vidbox"
+ ],
+ "vidlink.pro": [
+  "cinenest",
+  "flixzy",
+  "flnk",
+  "fluxtv",
+  "flyflix",
+  "moviestowatch",
+  "pawflix",
+  "snowstream",
+  "vidbox",
+  "zencine"
+ ],
+ "vidfast.vc": [
+  "flixzy",
+  "flyflix",
+  "pawflix",
+  "vidbox",
+  "zencine"
+ ],
+ "nxsha.space": [
+  "flnk",
+  "vidbox",
+  "zencine"
+ ],
+ "ythd.org": [
+  "vidbox"
+ ],
+ "vixsrc.to": [
+  "flnk",
+  "flyflix",
+  "snowstream",
+  "streamex",
+  "vidbox"
+ ],
+ "player2.vidplus.pro": [
+  "vidbox"
+ ],
+ "vidsuper.net": [
+  "flyflix",
+  "vidbox"
+ ],
+ "vidcore.net": [
+  "cinewave",
+  "flnk",
+  "flyflix",
+  "snowstream",
+  "streamex",
+  "vidbox"
+ ],
+ "primesrc.me": [
+  "cinenest",
+  "flnk",
+  "vidbox"
+ ],
+ "www.2embed.stream": [
+  "moviestowatch",
+  "vidbox"
+ ],
+ "cinemaos.tech": [
+  "cinewave",
+  "flyflix",
+  "pawflix",
+  "streamex",
+  "vidbox"
+ ],
+ "vidnest.fun": [
+  "flnk",
+  "flyflix",
+  "pawflix",
+  "snowstream",
+  "vidbox"
+ ],
+ "www.nontongo.win": [
+  "cinenest",
+  "snowstream",
+  "vidbox"
+ ],
+ "nhdapi.com": [
+  "vidbox"
+ ],
+ "rozgarlelo.modiplay.xyz": [
+  "vidbox",
+  "zencine"
+ ],
+ "play.xpass.top": [
+  "flnk",
+  "streamex",
+  "vidbox"
+ ],
+ "moviesapi.to": [
+  "cinenest",
+  "flyflix",
+  "vidbox"
+ ],
+ "www.vidking.net": [
+  "flnk",
+  "flyflix",
+  "pawflix",
+  "snowstream",
+  "vidbox"
+ ],
+ "111movies.net": [
+  "cinewave",
+  "flnk",
+  "snowstream",
+  "vidbox"
+ ],
+ "www.rivestream.app": [
+  "flnk",
+  "vidbox"
+ ],
+ "flicky.host": [
+  "vidbox"
+ ],
+ "peachify.top": [
+  "cinewave",
+  "flnk",
+  "streamex",
+  "vidbox"
+ ],
+ "2embed.stream": [
+  "vidbox"
+ ],
+ "example.com": [
+  "vidbox"
+ ],
+ "tryembed.us.cc": [
+  "flnk",
+  "streamex",
+  "zencine",
+  "zerostream"
+ ],
+ "vidrock.ru": [
+  "cinenest",
+  "flnk",
+  "zencine"
+ ],
+ "screenscape.me": [
+  "streamex",
+  "zencine"
+ ],
+ "vidout.pages.dev": [
+  "zencine"
+ ],
+ "vsembed.ru": [
+  "cinewave",
+  "flnk",
+  "streamex"
+ ],
+ "2embed.cc": [
+  "cinewave"
+ ],
+ "vidfast.pro": [
+  "cinenest",
+  "cinewave",
+  "flnk",
+  "moviestowatch",
+  "snowstream"
+ ],
+ "rivestream.org": [
+  "cinewave",
+  "moviestowatch"
+ ],
+ "player.vidzee.wtf": [
+  "cinenest",
+  "cinewave",
+  "flnk",
+  "pawflix"
+ ],
+ "airflix1.com": [
+  "cinewave"
+ ],
+ "vidsync.xyz": [
+  "cinewave",
+  "snowstream"
+ ],
+ "hexa.su": [
+  "cinewave"
+ ],
+ "vidora.su": [
+  "cinewave",
+  "pawflix"
+ ],
+ "mappletv.uk": [
+  "cinewave"
+ ],
+ "vidking.net": [
+  "cinewave"
+ ],
+ "toustream-play.chickenkiller.com": [
+  "cinewave"
+ ],
+ "vidsrc-embed.ru": [
+  "cinewave",
+  "pawflix"
+ ],
+ "fmovies.gd": [
+  "cinewave"
+ ],
+ "vidlux.xyz": [
+  "cinewave"
+ ],
+ "www.viduki.net": [
+  "flixzy"
+ ],
+ "vidstuck.xyz": [
+  "fluxtv",
+  "flyflix"
+ ],
+ "peestream.in": [
+  "flyflix"
+ ],
+ "flaxmovies.xyz": [
+  "flyflix"
+ ],
+ "player.vidlove.cc": [
+  "flyflix"
+ ],
+ "cinesrc.st": [
+  "cinenest",
+  "fluxtv",
+  "flyflix",
+  "moviestowatch"
+ ],
+ "vidbolt.xyz": [
+  "flnk",
+  "flyflix"
+ ],
+ "player.cinezo.live": [
+  "flnk",
+  "flyflix"
+ ],
+ "vares.app": [
+  "flyflix"
+ ],
+ "vidgod.net": [
+  "flyflix"
+ ],
+ "mapple.uk": [
+  "flyflix"
+ ],
+ "vidsrc.su": [
+  "flyflix"
+ ],
+ "vaplayer.ru": [
+  "flnk",
+  "flyflix"
+ ],
+ "vidsrc.me": [
+  "flyflix",
+  "snowstream"
+ ],
+ "1embed.cc": [
+  "fishystream",
+  "flnk",
+  "flyflix"
+ ],
+ "vidvault.ru": [
+  "cinenest",
+  "fluxtv",
+  "flyflix"
+ ],
+ "rentry.co": [
+  "fluxtv"
+ ],
+ "bingr.one": [
+  "fluxtv"
+ ],
+ "vares.top": [
+  "fluxtv"
+ ],
+ "embed.anicine.workers.dev": [
+  "flnk"
+ ],
+ "embed.vidrift.in": [
+  "flnk"
+ ],
+ "flixer.gd": [
+  "flnk"
+ ],
+ "movienig.ht": [
+  "flnk"
+ ],
+ "autoembed.co": [
+  "cinenest",
+  "flnk"
+ ],
+ "vidsrc.to": [
+  "flnk",
+  "moviestowatch",
+  "pawflix"
+ ],
+ "vidsrc.pm": [
+  "flnk"
+ ],
+ "www.2embed.cc": [
+  "cinenest",
+  "flnk",
+  "snowstream"
+ ],
+ "embed.smashystream.com": [
+  "flnk",
+  "pawflix"
+ ],
+ "vidgod.site": [
+  "flnk"
+ ],
+ "vidcodin.net": [
+  "flnk"
+ ],
+ "vidup.to": [
+  "flnk",
+  "snowstream"
+ ],
+ "vidstorm.ru": [
+  "cinenest",
+  "flnk",
+  "snowstream"
+ ],
+ "streamvaultsrc.click": [
+  "flnk"
+ ],
+ "vidphantom.com": [
+  "flnk"
+ ],
+ "player.vidify.top": [
+  "flnk",
+  "pawflix"
+ ],
+ "vidsrc.fyi": [
+  "flnk",
+  "moviestowatch"
+ ],
+ "vidapi.xyz": [
+  "flnk"
+ ],
+ "apiplayer.ru": [
+  "flnk"
+ ],
+ "vidsrc.sbs": [
+  "flnk"
+ ],
+ "vidsrc.mov": [
+  "cinenest",
+  "flnk",
+  "moviestowatch"
+ ],
+ "vidsrc.net": [
+  "flnk"
+ ],
+ "vidsync.live": [
+  "flnk"
+ ],
+ "vidapi.qzz.io": [
+  "flnk"
+ ],
+ "playmogo.com": [
+  "flnk"
+ ],
+ "dlhd.sx": [
+  "flnk"
+ ],
+ "watchseries.bar": [
+  "watchseries"
+ ],
+ "player.vidplus.to": [
+  "cinenest",
+  "pawflix"
+ ],
+ "vidsrc.icu": [
+  "cinenest",
+  "pawflix"
+ ],
+ "vidsrcme.ru": [
+  "pawflix"
+ ],
+ "letsembed.cc": [
+  "pawflix"
+ ],
+ "player.autoembed.cc": [
+  "pawflix"
+ ],
+ "111movies.com": [
+  "moviestowatch",
+  "pawflix"
+ ],
+ "rivestream.net": [
+  "pawflix"
+ ],
+ "embed.aether.mom": [
+  "pawflix"
+ ],
+ "web.nxsha.app": [
+  "pawflix"
+ ],
+ "www.vidsrc.wtf": [
+  "pawflix"
+ ],
+ "www.primevideo.com": [
+  "cinebytv"
+ ],
+ "www.microsoft.com": [
+  "cinebytv"
+ ],
+ "static.wplay.me": [
+  "tvids"
+ ],
+ "vidsrc.cc": [
+  "moviestowatch"
+ ],
+ "embed.su": [
+  "moviestowatch"
+ ],
+ "vidnest.net": [
+  "moviestowatch"
+ ],
+ "vidsrc.vip": [
+  "moviestowatch"
+ ],
+ "www.vidcore.org": [
+  "moviestowatch"
+ ],
+ "vidking.xyz": [
+  "moviestowatch"
+ ],
+ "vidsrc.xyz": [
+  "moviestowatch",
+  "snowstream"
+ ],
+ "vidsrc.rip": [
+  "moviestowatch"
+ ],
+ "gomo.to": [
+  "moviestowatch",
+  "snowstream"
+ ],
+ "vidsrc.pro": [
+  "moviestowatch"
+ ],
+ "autoembed.cc": [
+  "moviestowatch"
+ ],
+ "vidup.me": [
+  "moviestowatch"
+ ],
+ "2embed.biz": [
+  "moviestowatch"
+ ],
+ "godriveplayer.com": [
+  "moviestowatch"
+ ],
+ "vidy.st": [
+  "streamex"
+ ],
+ "vidzen.fun": [
+  "streamex"
+ ],
+ "stellar.rip": [
+  "streamex"
+ ],
+ "framextv.tech": [
+  "streamex"
+ ],
+ "www.zxcstream.xyz": [
+  "streamex"
+ ],
+ "play.modocine.com": [
+  "streamex"
+ ],
+ "cdn.4animo.xyz": [
+  "zerostream"
+ ],
+ "anym3u8player.com": [
+  "zerostream"
+ ],
+ "sportsembed.su.getsugatensho.sbs": [
+  "zerostream"
+ ],
+ "feeds.feedburner.com": [
+  "freeintertv"
+ ],
+ "ok.ru": [
+  "fishystream"
+ ],
+ "02moviedownloader.site": [
+  "fishystream"
+ ],
+ "player.vidrush.net": [
+  "snowstream"
+ ],
+ "vidzee.wtf": [
+  "snowstream"
+ ],
+ "www.videasy.net": [
+  "snowstream"
+ ],
+ "flixcdn.cyou": [
+  "snowstream"
+ ],
+ "cloudnestra.com": [
+  "snowstream"
+ ],
+ "moviesapi.club": [
+  "snowstream"
+ ],
+ "upload.wikimedia.org": [
+  "snowstream"
+ ],
+ "vidlux.online": [
+  "cinenest"
+ ],
+ "nhdapi.st": [
+  "cinenest"
+ ],
+ "player.autoembed.app": [
+  "cinenest"
+ ],
+ "anyembed.xyz": [
+  "cinenest"
+ ],
+ "vidbinge.to": [
+  "cinenest"
+ ],
+ "www.2embed.online": [
+  "cinenest"
+ ],
+ "vsembed.su": [
+  "cinenest"
+ ],
+ "viduki.net": [
+  "cinenest"
+ ],
+ "www.111movies.net": [
+  "cinenest"
+ ],
+ "embedmaster.link": [
+  "cinenest"
+ ],
+ "megaembed.com": [
+  "cinenest"
+ ]
+}
