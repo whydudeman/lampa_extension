@@ -87,9 +87,9 @@
     var index = 0;
 
     function tryNext() {
-      if (index >= hosts.length) return onNone();
+      if (index >= hosts.length) return hosts.length ? onFound(hosts[0]) : onNone();
       var host = hosts[index++];
-      probe.timeout(5000);
+      probe.timeout(10000);
       probe.native(withProxy(host + (provider.probePath || '/')), function () {
         rememberHost(provider, host);
         onFound(host);
@@ -278,6 +278,13 @@
     return '/api/boot/movie/' + request.tmdbId + query;
   }
 
+  function vidriftSourcePath(request, playbackToken) {
+    var mediaPath = request.type === 'tv'
+      ? 'tv/' + request.tmdbId + '/' + request.season + '/' + request.episode
+      : 'movie/' + request.tmdbId;
+    return '/api/source/' + mediaPath + '?token=' + encodeURIComponent(playbackToken) + '&provider=vaplayer';
+  }
+
   registerProvider({
     name: 'vidrift',
     title: 'VidRift',
@@ -286,15 +293,10 @@
     probePath: '/embed2/play',
     resolve: function (context, onStreams, onError) {
       var host = context.host;
-      context.network.timeout(20000);
-      context.network.silent(context.withProxy(host + vidriftBootPath(context.request)), function (json) {
-        var meta = json && json.meta;
-        if (!meta) return onError('bad response');
-        var subtitles = ((json.shell && json.shell.subtitles) || []).map(function (subtitle) {
-          return { label: subtitle.label || subtitle.lang, url: absoluteUrl(host, subtitle.url) };
-        });
-        var streams = (meta.warmStreams || []).filter(function (stream) {
-          return stream.type === 'hls' && (stream.proxyUrl || stream.url);
+
+      function toStreams(rawStreams, subtitles) {
+        return (rawStreams || []).filter(function (stream) {
+          return stream.type === 'hls' && !stream.direct && (stream.proxyUrl || stream.url);
         }).map(function (stream, position) {
           return {
             label: (stream.name || stream.provider || 'Server') + ' #' + (position + 1),
@@ -303,75 +305,30 @@
             subtitles: subtitles.length ? subtitles : false
           };
         });
-        onStreams(streams);
+      }
+
+      function requestOnDemandSource(playbackToken, subtitles) {
+        context.network.timeout(30000);
+        context.network.silent(context.withProxy(host + vidriftSourcePath(context.request, playbackToken)), function (json) {
+          onStreams(json && json.success ? toStreams(json.streams, subtitles) : []);
+        }, function () {
+          onError('source request failed');
+        });
+      }
+
+      context.network.timeout(20000);
+      context.network.silent(context.withProxy(host + vidriftBootPath(context.request)), function (json) {
+        var meta = json && json.meta;
+        if (!meta) return onError('bad response');
+        var subtitles = ((json.shell && json.shell.subtitles) || []).map(function (subtitle) {
+          return { label: subtitle.label || subtitle.lang, url: absoluteUrl(host, subtitle.url) };
+        });
+        var warmStreams = toStreams(meta.warmStreams, subtitles);
+        if (warmStreams.length || !meta.playbackToken) return onStreams(warmStreams);
+        requestOnDemandSource(meta.playbackToken, subtitles);
       }, function () {
         onError('request failed');
       });
-    }
-  });
-
-  function vidloveApiPath(request) {
-    if (request.type === 'tv') {
-      return '/tv?id=' + request.tmdbId + '&season=' + request.season + '&episode=' + request.episode + '&mode=json&hevc=0';
-    }
-    return '/movie?id=' + request.tmdbId + '&mode=json&hevc=0';
-  }
-
-  function qualityMap(qualities) {
-    var map = {};
-    qualities.forEach(function (quality) {
-      if (quality.url && !map[quality.quality]) map[quality.quality] = quality.url;
-    });
-    return map;
-  }
-
-  registerProvider({
-    name: 'vidlove',
-    title: 'VidLove (beta)',
-    site: 'vidlove',
-    hosts: ['https://api.vidlove.cc'],
-    probePath: '/thumbnails/movie/550',
-    resolve: function (context, onStreams, onError) {
-      var attemptsLeft = 3;
-
-      function retryOrFail(reason) {
-        if (--attemptsLeft > 0) return requestSource();
-        onError(reason);
-      }
-
-      function deliver(json) {
-        var source = json && json.source;
-        if (!source || !source.url) return retryOrFail('no source');
-        var subtitles = (json.subtitles || []).filter(function (subtitle) {
-          return subtitle.file && /^https?:\/\//.test(subtitle.file);
-        }).map(function (subtitle) {
-          return { label: subtitle.label, url: subtitle.file };
-        });
-        var qualities = source.qualities && source.qualities.length ? qualityMap(source.qualities) : false;
-        var stream = {
-          label: source.label || source.source || 'VidLove',
-          info: qualities ? Object.keys(qualities).join(' / ') : 'HLS',
-          url: qualities ? qualities[Object.keys(qualities)[0]] : source.url,
-          qualities: qualities,
-          subtitles: subtitles.length ? subtitles : false
-        };
-        if (qualities) return onStreams([stream]);
-        context.network.timeout(20000);
-        context.network.native(stream.url, function () {
-          onStreams([stream]);
-        }, function () {
-          retryOrFail('stream unavailable');
-        }, false, { dataType: 'text' });
-      }
-
-      function requestSource() {
-        context.network.timeout(60000);
-        context.network.silent(context.withProxy(context.host + vidloveApiPath(context.request)), deliver, function () {
-          retryOrFail('request failed');
-        });
-      }
-
-      requestSource();
     }
   });
 
