@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-09-29T22:04:08.704Z",
+  "updatedAt": "2026-09-30T10:16:20.613Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -86,6 +86,14 @@
         "https://shuttletv.me"
       ]
     },
+    "bcine": {
+      "name": "bCine",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://bciney.to"
+      ]
+    },
     "streamo": {
       "name": "Streamo",
       "section": "Stream Aggregators",
@@ -124,7 +132,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://viv.st"
+        "https://vivarium.su"
       ]
     },
     "reelix": {
@@ -145,14 +153,6 @@
         "https://neonflix.st",
         "https://www.cinezo.st",
         "https://www.flikhub.net"
-      ]
-    },
-    "bcine": {
-      "name": "bCine",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://bciney.to"
       ]
     },
     "way2movies": {
@@ -196,6 +196,14 @@
         "https://spacedom.live"
       ]
     },
+    "moviebite": {
+      "name": "MovieBite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moviebite.org"
+      ]
+    },
     "cinemabz": {
       "name": "Cinema (BZ)",
       "section": "Stream Aggregators",
@@ -229,14 +237,6 @@
       "starred": false,
       "hosts": [
         "https://chillflix.lol"
-      ]
-    },
-    "moviebite": {
-      "name": "MovieBite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moviebite.org"
       ]
     },
     "tonkacine": {
@@ -281,6 +281,14 @@
       "starred": false,
       "hosts": [
         "https://gaiaflix.live"
+      ]
+    },
+    "dulo": {
+      "name": "dulo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://dulo.mov"
       ]
     },
     "nippleflix": {
@@ -454,14 +462,6 @@
       "starred": false,
       "hosts": [
         "https://vaultplayer.co.uk"
-      ]
-    },
-    "dulo": {
-      "name": "dulo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://dulo.mov"
       ]
     },
     "flixtrz": {
@@ -739,14 +739,6 @@
       "starred": false,
       "hosts": [
         "https://peestream.in"
-      ]
-    },
-    "cinebygdn": {
-      "name": "Cineby (gdn)",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://cineby.gdn"
       ]
     },
     "atlantic": {
@@ -1256,7 +1248,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://watchseries.show"
+        "https://watchseries.free"
       ]
     },
     "pawflix": {
