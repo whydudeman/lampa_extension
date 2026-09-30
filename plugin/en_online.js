@@ -316,7 +316,7 @@
         });
       }
 
-      context.network.timeout(20000);
+      context.network.timeout(45000);
       context.network.silent(context.withProxy(host + vidriftBootPath(context.request)), function (json) {
         var meta = json && json.meta;
         if (!meta) return onError('bad response');
@@ -326,8 +326,11 @@
         var warmStreams = toStreams(meta.warmStreams, subtitles);
         if (warmStreams.length || !meta.playbackToken) return onStreams(warmStreams);
         requestOnDemandSource(meta.playbackToken, subtitles);
-      }, function () {
-        onError('request failed');
+      }, function (xhr) {
+        var status = xhr && xhr.status;
+        if (status === 451) return onError('blocked by rights holder for this title');
+        if (status === 404) return onError('title not found');
+        onError(status ? 'request failed (HTTP ' + status + ')' : 'request failed (timeout or network)');
       });
     }
   });
