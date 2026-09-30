@@ -1,0 +1,304 @@
+[
+  {
+    "provider": "vidrift",
+    "id": 550,
+    "streams": [
+      {
+        "label": "Earth #1",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "mp4a.40.2,avc1.42c015",
+            "mp4a.40.2,avc1.64001f",
+            "mp4a.40.2,avc1.640028"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "200",
+              "received": 374475
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "403",
+          "hls": false
+        }
+      },
+      {
+        "label": "Earth #2",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "mp4a.40.2,avc1.42c015",
+            "mp4a.40.2,avc1.64001f",
+            "mp4a.40.2,avc1.640028"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "200",
+              "received": 374475
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "403",
+          "hls": false
+        }
+      }
+    ]
+  },
+  {
+    "provider": "vidrift",
+    "id": 680,
+    "streams": [
+      {
+        "label": "Atlas #1",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [],
+          "segment": {
+            "status": "403",
+            "received": 16
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "403",
+          "hls": false
+        }
+      }
+    ]
+  },
+  {
+    "provider": "vixsrc",
+    "id": 550,
+    "streams": [
+      {
+        "label": "Server1",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 973
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 973
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        }
+      },
+      {
+        "label": "Server2",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 973
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 973
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "provider": "vixsrc",
+    "id": 680,
+    "streams": [
+      {
+        "label": "Server1",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 971
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 971
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        }
+      },
+      {
+        "label": "Server2",
+        "direct": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 971
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        },
+        "lampa": {
+          "stage": "playlist",
+          "status": "200",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "child": {
+            "stage": "playlist",
+            "status": "200",
+            "hls": true,
+            "codecs": [],
+            "segment": {
+              "status": "206",
+              "received": 971
+            },
+            "key": {
+              "status": "200",
+              "received": 16
+            }
+          }
+        }
+      }
+    ]
+  }
+]

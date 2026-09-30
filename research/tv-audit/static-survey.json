@@ -1,0 +1,926 @@
+[
+  {
+    "name": "Movy script 0",
+    "url": "https://www.movy.sx/_next/static/chunks/1t-i5181yurb6.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 1",
+    "url": "https://www.movy.sx/_next/static/chunks/1e9im_sb3pksn.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 2",
+    "url": "https://www.movy.sx/_next/static/chunks/3in-yfmlcxz9u.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 3",
+    "url": "https://www.movy.sx/_next/static/chunks/1yu_oj_03zc-c.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": true,
+      "encrypted": false,
+      "m3u8": true,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 4",
+    "url": "https://www.movy.sx/_next/static/chunks/0nu0eje3907fe.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 5",
+    "url": "https://www.movy.sx/_next/static/chunks/3rhsii4i811du.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 6",
+    "url": "https://www.movy.sx/_next/static/chunks/3ntjt_vgr2yt8.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Movy script 7",
+    "url": "https://www.movy.sx/_next/static/chunks/2oyt_owkllr-a.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Flixer script 0",
+    "url": "https://flixer.gd/assets/js/index-93590636.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": true,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Hexa script 1",
+    "url": "https://hexa.su/assets/js/index-01931007.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": true,
+      "encrypted": true,
+      "m3u8": true,
+      "/api/": true,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Hexa script 2",
+    "url": "https://hexa.su/registerSW.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 0",
+    "url": "https://cinesrc.st/_next/static/chunks/d1cc58c9a36a055b.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 1",
+    "url": "https://cinesrc.st/_next/static/chunks/7416a5e7895a96f5.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "CineSrc script 2",
+    "url": "https://cinesrc.st/_next/static/chunks/a5ca7aece8e5dba2.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 3",
+    "url": "https://cinesrc.st/_next/static/chunks/96d6975ee8751e00.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 4",
+    "url": "https://cinesrc.st/_next/static/chunks/turbopack-1c94315b897a4e17.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": true,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 5",
+    "url": "https://cinesrc.st/_next/static/chunks/c49dea1758b0d67e.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 6",
+    "url": "https://cinesrc.st/_next/static/chunks/ff1a16fafef87110.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "CineSrc script 7",
+    "url": "https://cinesrc.st/_next/static/chunks/48ddb51b61c23f93.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 0",
+    "url": "https://vidlink.pro/_next/static/chunks/fd9d1056-9255db17acfa2538.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "vidlink script 1",
+    "url": "https://vidlink.pro/_next/static/chunks/7023-7bc62e005594df30.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 2",
+    "url": "https://vidlink.pro/_next/static/chunks/main-app-55bbd77d79f9187f.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 3",
+    "url": "https://vidlink.pro/_next/static/chunks/6279-7c5d02715d3aeb6c.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 4",
+    "url": "https://vidlink.pro/_next/static/chunks/app/layout-ea85b5dd31d3e5f4.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 5",
+    "url": "https://vidlink.pro/_next/static/chunks/f8025e75-7ef9c1399454d05e.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 6",
+    "url": "https://vidlink.pro/_next/static/chunks/53c13509-3151fd9ad6687b75.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "vidlink script 7",
+    "url": "https://vidlink.pro/_next/static/chunks/07b5dd1e-bc4bf55a45fbc8c7.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": true,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "videasy script 0",
+    "url": "https://player.videasy.to/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "videasy script 1",
+    "url": "https://player.videasy.to/_next/static/chunks/webpack-c8e6587b05aaaa5f.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "videasy script 2",
+    "url": "https://player.videasy.to/_next/static/chunks/framework-29322186b44cc109.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "videasy script 3",
+    "url": "https://player.videasy.to/_next/static/chunks/main-b83f40cab6c10f34.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": true,
+      "iframe": false
+    }
+  },
+  {
+    "name": "videasy script 4",
+    "url": "https://player.videasy.to/_next/static/chunks/pages/_app-b31febe465465bc3.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": true,
+      "iframe": true
+    }
+  },
+  {
+    "name": "videasy script 5",
+    "url": "https://player.videasy.to/_next/static/chunks/1470-d8b2f9ceb2a15121.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "videasy script 6",
+    "url": "https://player.videasy.to/_next/static/chunks/2679-958b66cfb5b7b07a.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "videasy script 7",
+    "url": "https://player.videasy.to/_next/static/chunks/pages/movie/%5B...params%5D-827bfbb45b1fe903.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "111movies script 0",
+    "url": "https://player.vidlove.cc/assets/index-8SxesPpf.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": true,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "111movies script 1",
+    "url": "https://player.vidlove.cc/rt.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "vsembed script 0",
+    "url": "https://vsembed.ru/assets/sbx.js?v=1786671805",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "vsembed script 1",
+    "url": "https://vsembed.ru/assets/disable-devtool.js?v=1785879645",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "vidstorm script 1",
+    "url": "https://vidstorm.to/assets/index-DV6XQtHT.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": true,
+      "encrypted": true,
+      "m3u8": true,
+      "/api/": true,
+      "iframe": true
+    }
+  },
+  {
+    "name": "vidstorm script 2",
+    "url": "https://vidstorm.to/sbx.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 0",
+    "url": "https://cinemaos.tech/_next/static/chunks/4bd1b696-ca8d38673d306ac5.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "cinemaos script 1",
+    "url": "https://cinemaos.tech/_next/static/chunks/1517-b65c951c1bd265bc.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 2",
+    "url": "https://cinemaos.tech/_next/static/chunks/main-app-d0d0f32c1f849445.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 3",
+    "url": "https://cinemaos.tech/_next/static/chunks/1181-f6ec003211356e7e.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 4",
+    "url": "https://cinemaos.tech/_next/static/chunks/4298-919db5488b8061e8.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 5",
+    "url": "https://cinemaos.tech/_next/static/chunks/661-77b1a3fbf126e281.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 6",
+    "url": "https://cinemaos.tech/_next/static/chunks/app/layout-12a053323b85a6ef.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "cinemaos script 7",
+    "url": "https://cinemaos.tech/_next/static/chunks/0e5ce63c-11de29a10954ad01.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "filmu script 3",
+    "url": "https://embed.filmu.in/assets/index-Ciw5QmJy.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Rive script 0",
+    "url": "https://www.rivestream.app/_next/static/chunks/polyfills-42372ed130431b0a.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Rive script 1",
+    "url": "https://www.rivestream.app/_next/static/chunks/webpack-18dc309a063420a4.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Rive script 2",
+    "url": "https://www.rivestream.app/_next/static/chunks/framework-945b357d4a851f4b.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": true,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Rive script 3",
+    "url": "https://www.rivestream.app/_next/static/chunks/main-39e50773f699b0d5.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": true,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Rive script 4",
+    "url": "https://www.rivestream.app/_next/static/chunks/pages/_app-8968a3dfdb102569.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": true,
+      "iframe": true
+    }
+  },
+  {
+    "name": "Rive script 5",
+    "url": "https://www.rivestream.app/_next/static/chunks/3a17f596-6fe8ea4c98328343.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Rive script 6",
+    "url": "https://www.rivestream.app/_next/static/chunks/pages/index-e140e62d4b51f4f7.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "Rive script 7",
+    "url": "https://www.rivestream.app/_next/static/dPRlO_UQqUFfOjuq8jaaO/_buildManifest.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 0",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/0ygj8fwxuy_8e.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 1",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/0ufs_.3c4e569.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 2",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/0d7nuaqfu0491.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": true,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  },
+  {
+    "name": "zxcstream script 3",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/152k2ttyoaood.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 4",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/turbopack-09z7bra5.2tzu.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": true,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 5",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/03z-wwswqe01o.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 6",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/13_p3u3p2iuoc.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": false
+    }
+  },
+  {
+    "name": "zxcstream script 7",
+    "url": "https://player.zxcprime.xyz/_next/static/chunks/00prw9fswda_a.js",
+    "status": "200",
+    "signals": {
+      "WebAssembly": false,
+      "\\.wasm": false,
+      "decrypt": false,
+      "encrypted": false,
+      "m3u8": false,
+      "/api/": false,
+      "iframe": true
+    }
+  }
+]

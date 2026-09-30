@@ -1,0 +1,90 @@
+[
+  {
+    "provider": "Orion",
+    "name": "Orion · Original",
+    "direct": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    },
+    "lampa": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    }
+  },
+  {
+    "provider": "Orion",
+    "name": "Orion · Hindi",
+    "direct": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    },
+    "lampa": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    }
+  },
+  {
+    "provider": "Orion",
+    "name": "Orion · French",
+    "direct": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    },
+    "lampa": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    }
+  },
+  {
+    "provider": "VidZee",
+    "direct": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    },
+    "lampa": {
+      "stage": "playlist",
+      "status": "403",
+      "hls": false
+    }
+  },
+  {
+    "provider": "vidrift",
+    "tv": "1399/1/1",
+    "result": []
+  },
+  {
+    "provider": "vixsrc",
+    "tv": "1399/1/1",
+    "result": {
+      "stage": "playlist",
+      "status": "200",
+      "hls": true,
+      "codecs": [
+        "avc1.640028,mp4a.40.2",
+        "avc1.64001f,mp4a.40.2",
+        "avc1.64001f,mp4a.40.2"
+      ],
+      "child": {
+        "stage": "playlist",
+        "status": "200",
+        "hls": true,
+        "codecs": [],
+        "segment": {
+          "status": "206",
+          "received": 973
+        },
+        "key": {
+          "status": "200",
+          "received": 16
+        }
+      }
+    }
+  }
+]
