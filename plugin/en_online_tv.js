@@ -2,7 +2,7 @@
   'use strict';
 
   var PLUGIN_ID = 'en_online_tv';
-  var VERSION = '0.2.0-tv';
+  var VERSION = '0.3.0-tv';
   var DEFAULT_MIRRORS_URL = ''; // Built-in hosts work without a mirrors service.
   var MIRRORS_CACHE_KEY = PLUGIN_ID + '_mirrors';
   var MIRRORS_TTL_MS = 6 * 60 * 60 * 1000;
@@ -34,6 +34,8 @@
 
   function withProxy(url) {
     var proxy = proxyUrl();
+    var helper = storageField('helper_url', window.EnOnlineTVHelper || '');
+    if (!proxy && helper && /^https:\/\/vixsrc\.to\//.test(url)) return helper.replace(/\/+$/, '') + '/api/' + url;
     if (!proxy) return url;
     return proxy.replace(/\/?$/, '/') + url;
   }
@@ -250,6 +252,11 @@
       component: PLUGIN_ID,
       param: { name: PLUGIN_ID + '_mirrors_url', type: 'input', values: '', default: '' },
       field: { name: 'Mirrors JSON URL', description: 'Empty = ' + DEFAULT_MIRRORS_URL }
+    });
+    Lampa.SettingsApi.addParam({
+      component: PLUGIN_ID,
+      param: { name: PLUGIN_ID + '_helper_url', type: 'input', values: '', default: '' },
+      field: { name: 'TV helper URL', description: 'Local Mac helper address; automatically set when installed from the helper' }
     });
     Lampa.SettingsApi.addParam({
       component: PLUGIN_ID,

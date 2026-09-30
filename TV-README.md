@@ -1,3 +1,5 @@
+> Обновление 0.3.0: добавлен локальный помощник для запуска сегодня. См. [EVENING.md](EVENING.md). Ниже сохранён первоначальный аудит 0.2.0.
+
 # EN Online TV — отдельная копия для проверки на LG webOS
 
 Исходный `plugin/en_online.js` не изменён. Новый файл — `plugin/en_online_tv.js`, отдельная кнопка **EN Online TV**, настройки `en_online_tv_*`, API `window.EnOnlineTV.registerProvider(...)`. Можно загружать оба плагина одновременно.

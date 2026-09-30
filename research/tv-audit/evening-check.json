@@ -1,0 +1,830 @@
+[
+  {
+    "title": "Me, Myself & Irene",
+    "route": "movie/2123",
+    "api": {
+      "status": "200",
+      "bytes": 143,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "embed": {
+      "status": "200",
+      "bytes": 6225,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "servers": [
+      {
+        "name": "Server1",
+        "result": {
+          "status": "200",
+          "bytes": 1952,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.64001f,mp4a.40.2",
+            "avc1.64001f,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 149807,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 875,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 437
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 874
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 155470,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 875,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 437
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 874
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      },
+      {
+        "name": "Server2",
+        "result": {
+          "status": "200",
+          "bytes": 1952,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.64001f,mp4a.40.2",
+            "avc1.64001f,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 149807,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 875,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 437
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 874
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 155470,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 875,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 437
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 874
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "title": "The Fellowship of the Ring",
+    "route": "movie/120",
+    "api": {
+      "status": "200",
+      "bytes": 191,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "embed": {
+      "status": "200",
+      "bytes": 6225,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "servers": [
+      {
+        "name": "Server1",
+        "result": {
+          "status": "200",
+          "bytes": 7953,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 481855,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 2676,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 1338
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 2675
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 465340,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 2673,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 1336
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 2672
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      },
+      {
+        "name": "Server2",
+        "result": {
+          "status": "200",
+          "bytes": 7953,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 481855,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 2676,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 1338
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 2675
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 465340,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 2673,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 1336
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 2672
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      }
+    ]
+  },
+  {
+    "title": "Breaking Bad S01E01",
+    "route": "tv/1396/1/1",
+    "api": {
+      "status": "200",
+      "bytes": 156,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "embed": {
+      "status": "200",
+      "bytes": 6225,
+      "cors": [
+        "*"
+      ],
+      "error": ""
+    },
+    "servers": [
+      {
+        "name": "Server1",
+        "result": {
+          "status": "200",
+          "bytes": 3163,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 154351,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 876,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 438
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 875
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 148939,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 875,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 437
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 874
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      },
+      {
+        "name": "Server2",
+        "result": {
+          "status": "200",
+          "bytes": 3163,
+          "cors": [
+            "*"
+          ],
+          "error": "",
+          "hls": true,
+          "codecs": [
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2",
+            "avc1.640028,mp4a.40.2"
+          ],
+          "audio": [
+            {
+              "NAME": "Italian",
+              "DEFAULT": "NO",
+              "LANGUAGE": "ita"
+            },
+            {
+              "NAME": "English",
+              "DEFAULT": "YES",
+              "LANGUAGE": "eng",
+              "playlist": {
+                "status": "200",
+                "bytes": 154351,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "hls": true,
+                "codecs": [],
+                "audio": [],
+                "segments_total": 876,
+                "samples": [
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 0
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 438
+                  },
+                  {
+                    "status": "206",
+                    "bytes": 1024,
+                    "cors": [
+                      "*"
+                    ],
+                    "error": "",
+                    "index": 875
+                  }
+                ],
+                "key": {
+                  "status": "200",
+                  "bytes": 16,
+                  "cors": [
+                    "*"
+                  ],
+                  "error": ""
+                }
+              }
+            }
+          ],
+          "video": {
+            "status": "200",
+            "bytes": 148939,
+            "cors": [
+              "*"
+            ],
+            "error": "",
+            "hls": true,
+            "codecs": [],
+            "audio": [],
+            "segments_total": 875,
+            "samples": [
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 0
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 437
+              },
+              {
+                "status": "206",
+                "bytes": 1024,
+                "cors": [
+                  "*"
+                ],
+                "error": "",
+                "index": 874
+              }
+            ],
+            "key": {
+              "status": "200",
+              "bytes": 16,
+              "cors": [
+                "*"
+              ],
+              "error": ""
+            }
+          }
+        }
+      }
+    ]
+  }
+]
