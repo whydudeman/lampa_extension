@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-09-30T10:16:20.613Z",
+  "updatedAt": "2026-10-01T10:42:32.487Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -487,8 +487,7 @@
       "hosts": [
         "https://ffmovies.org",
         "https://fstream.app",
-        "https://smovies.co",
-        "https://cineflixd.fstream.app"
+        "https://smovies.co"
       ]
     },
     "watchott": {
