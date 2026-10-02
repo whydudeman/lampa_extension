@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-01T10:42:32.487Z",
+  "updatedAt": "2026-10-02T10:18:21.747Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -35,6 +35,19 @@
         "https://bingebox.ac"
       ]
     },
+    "rive": {
+      "name": "Rive",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://www.rivestream.app",
+        "https://rivestream.ru",
+        "https://rivestream.win",
+        "https://watch.corsflix.net",
+        "https://corsflix.net",
+        "https://watch.corsflix.dpdns.org"
+      ]
+    },
     "7movies": {
       "name": "7Movies",
       "section": "Stream Aggregators",
@@ -52,19 +65,6 @@
         "https://flixer.su",
         "https://flixer.cx",
         "https://hexa.su"
-      ]
-    },
-    "rive": {
-      "name": "Rive",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://www.rivestream.app",
-        "https://rivestream.ru",
-        "https://rivestream.win",
-        "https://watch.corsflix.net",
-        "https://corsflix.net",
-        "https://watch.corsflix.dpdns.org"
       ]
     },
     "67movies": {
@@ -86,6 +86,14 @@
         "https://shuttletv.me"
       ]
     },
+    "meowtv": {
+      "name": "MeowTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://meowtv.ru"
+      ]
+    },
     "bcine": {
       "name": "bCine",
       "section": "Stream Aggregators",
@@ -94,21 +102,23 @@
         "https://bciney.to"
       ]
     },
+    "arrowtv": {
+      "name": "ArrowTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://arrowtv.net",
+        "https://neonflix.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
+      ]
+    },
     "streamo": {
       "name": "Streamo",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://streamo.pro"
-      ]
-    },
-    "meowtv": {
-      "name": "MeowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://meowtv.ru",
-        "https://flickystream.mov"
       ]
     },
     "stellar": {
@@ -142,17 +152,6 @@
       "hosts": [
         "https://reelix.ac",
         "https://coreflix.tv"
-      ]
-    },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://neonflix.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
       ]
     },
     "way2movies": {
@@ -478,16 +477,6 @@
       "starred": false,
       "hosts": [
         "https://zxcprime.icu"
-      ]
-    },
-    "fmovies": {
-      "name": "FMovies",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://ffmovies.org",
-        "https://fstream.app",
-        "https://smovies.co"
       ]
     },
     "watchott": {
