@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-02T10:18:21.747Z",
+  "updatedAt": "2026-10-03T09:39:16.546Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -266,6 +266,17 @@
         "https://noirx.live"
       ]
     },
+    "nippleflix": {
+      "name": "Nippleflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://nippleflix.com",
+        "https://redflix.one",
+        "https://redflix.club",
+        "https://pantyflix.com"
+      ]
+    },
     "vuflix": {
       "name": "Vuflix",
       "section": "Stream Aggregators",
@@ -288,17 +299,6 @@
       "starred": false,
       "hosts": [
         "https://dulo.mov"
-      ]
-    },
-    "nippleflix": {
-      "name": "Nippleflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://nippleflix.com",
-        "https://redflix.one",
-        "https://redflix.club",
-        "https://pantyflix.com"
       ]
     },
     "vidplay": {
