@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-03T09:39:16.546Z",
+  "updatedAt": "2026-10-04T10:23:31.133Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -354,8 +354,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://cinemove.cc",
-        "https://cinex.lol"
+        "https://cinemove.cc"
       ]
     },
     "lightflix": {
@@ -479,13 +478,12 @@
         "https://zxcprime.icu"
       ]
     },
-    "watchott": {
-      "name": "Watchott",
+    "shahflix": {
+      "name": "ShahFlix",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://watchott.org",
-        "https://emnexmovies.tech"
+        "https://www.shahflix.net"
       ]
     },
     "mapple": {
@@ -530,6 +528,14 @@
         "https://novahd.cc"
       ]
     },
+    "zoryvax": {
+      "name": "Zoryva X",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://zoryva.me"
+      ]
+    },
     "netplay": {
       "name": "NetPlay",
       "section": "Stream Aggregators",
@@ -537,6 +543,14 @@
       "hosts": [
         "https://netplayz.icu",
         "https://cinelove.live"
+      ]
+    },
+    "mzone": {
+      "name": "M-Zone",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://m-zone.org"
       ]
     },
     "screenscape": {
@@ -563,14 +577,6 @@
         "https://popwatch.to"
       ]
     },
-    "koddo": {
-      "name": "koddo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://koddo.ch"
-      ]
-    },
     "surfacestream": {
       "name": "Surface Stream",
       "section": "Stream Aggregators",
@@ -585,22 +591,6 @@
       "starred": false,
       "hosts": [
         "https://framextv.tech"
-      ]
-    },
-    "apexmovies": {
-      "name": "Apexmovies",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://apexmovies.net"
-      ]
-    },
-    "reelzone": {
-      "name": "ReelZone",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://reelzone.icu"
       ]
     },
     "streamvaults": {
@@ -618,14 +608,6 @@
       "starred": false,
       "hosts": [
         "https://web.nxsha.app"
-      ]
-    },
-    "vegetatv": {
-      "name": "Vegeta TV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "http://vegetatv.duckdns.org"
       ]
     },
     "cinecat": {
@@ -727,6 +709,14 @@
       "starred": false,
       "hosts": [
         "https://peestream.in"
+      ]
+    },
+    "stream": {
+      "name": "Stream",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://dexter.pw"
       ]
     },
     "atlantic": {
@@ -1124,6 +1114,22 @@
         "https://flyflix.net"
       ]
     },
+    "koddo": {
+      "name": "koddo",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://koddo.ch"
+      ]
+    },
+    "thugtv": {
+      "name": "ThugTV",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://thugtv.online"
+      ]
+    },
     "fluxtv": {
       "name": "FluxTV",
       "section": "Multi-Server",
@@ -1146,6 +1152,23 @@
       "starred": false,
       "hosts": [
         "https://player.xtra.wtf"
+      ]
+    },
+    "reelzone": {
+      "name": "ReelZone",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://reelzone.icu"
+      ]
+    },
+    "watchott": {
+      "name": "Watchott",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://watchott.org",
+        "https://emnexmovies.tech"
       ]
     },
     "flixvo": {
