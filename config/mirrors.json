@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-04T10:23:31.133Z",
+  "updatedAt": "2026-10-05T11:09:39.193Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -48,6 +48,16 @@
         "https://watch.corsflix.dpdns.org"
       ]
     },
+    "shuttletv": {
+      "name": "ShuttleTV",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://shuttletv.su",
+        "https://shuttletv.pk",
+        "https://shuttletv.me"
+      ]
+    },
     "7movies": {
       "name": "7Movies",
       "section": "Stream Aggregators",
@@ -67,23 +77,21 @@
         "https://hexa.su"
       ]
     },
-    "67movies": {
-      "name": "67Movies",
+    "stellar": {
+      "name": "Stellar",
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://67movies.st",
-        "https://phantomflix.net"
+        "https://stellar.gdn"
       ]
     },
-    "shuttletv": {
-      "name": "ShuttleTV",
+    "67movies": {
+      "name": "67Movies",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://shuttletv.su",
-        "https://shuttletv.pk",
-        "https://shuttletv.me"
+        "https://67movies.st",
+        "https://phantomflix.net"
       ]
     },
     "meowtv": {
@@ -99,7 +107,8 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://bciney.to"
+        "https://cineyz.com",
+        "https://zxcprime.icu"
       ]
     },
     "arrowtv": {
@@ -121,12 +130,13 @@
         "https://streamo.pro"
       ]
     },
-    "stellar": {
-      "name": "Stellar",
+    "way2movies": {
+      "name": "Way2Movies",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://stellar.gdn"
+        "https://beta.way2movies.live",
+        "https://way2movies.live"
       ]
     },
     "toustream": {
@@ -154,13 +164,12 @@
         "https://coreflix.tv"
       ]
     },
-    "way2movies": {
-      "name": "Way2Movies",
+    "spacedom": {
+      "name": "Spacedom",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://beta.way2movies.live",
-        "https://way2movies.live"
+        "https://spacedom.live"
       ]
     },
     "movienight": {
@@ -187,12 +196,12 @@
         "https://flystream.net"
       ]
     },
-    "spacedom": {
-      "name": "Spacedom",
+    "chillflix": {
+      "name": "Chillflix",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://spacedom.live"
+        "https://chillflix.lol"
       ]
     },
     "moviebite": {
@@ -230,14 +239,6 @@
         "https://latestmovies.net"
       ]
     },
-    "chillflix": {
-      "name": "Chillflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://chillflix.lol"
-      ]
-    },
     "tonkacine": {
       "name": "TonkaCine",
       "section": "Stream Aggregators",
@@ -264,6 +265,14 @@
         "https://cinemaos.tech",
         "https://noirx.me",
         "https://noirx.live"
+      ]
+    },
+    "moanatv": {
+      "name": "moanatv.",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://lfmx.app"
       ]
     },
     "nippleflix": {
@@ -406,6 +415,14 @@
         "https://bingr.one"
       ]
     },
+    "mzone": {
+      "name": "M-Zone",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://m-zone.org"
+      ]
+    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
@@ -430,14 +447,6 @@
         "https://stellar.rip"
       ]
     },
-    "moanatv": {
-      "name": "moanatv.",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://lfmx.app"
-      ]
-    },
     "allyoucanwatch": {
       "name": "All You Can Watch",
       "section": "Stream Aggregators",
@@ -454,6 +463,14 @@
         "https://3eyedraven.watch"
       ]
     },
+    "atlantic": {
+      "name": "Atlantic",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://atlantic.st"
+      ]
+    },
     "vaultplayer": {
       "name": "VaultPlayer",
       "section": "Stream Aggregators",
@@ -468,22 +485,6 @@
       "starred": false,
       "hosts": [
         "https://flixtrz.com"
-      ]
-    },
-    "zxcstream": {
-      "name": "ZXCSTREAM",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://zxcprime.icu"
-      ]
-    },
-    "shahflix": {
-      "name": "ShahFlix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://www.shahflix.net"
       ]
     },
     "mapple": {
@@ -543,14 +544,6 @@
       "hosts": [
         "https://netplayz.icu",
         "https://cinelove.live"
-      ]
-    },
-    "mzone": {
-      "name": "M-Zone",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://m-zone.org"
       ]
     },
     "screenscape": {
@@ -709,22 +702,6 @@
       "starred": false,
       "hosts": [
         "https://peestream.in"
-      ]
-    },
-    "stream": {
-      "name": "Stream",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://dexter.pw"
-      ]
-    },
-    "atlantic": {
-      "name": "Atlantic",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://atlantic.st"
       ]
     },
     "nepu": {
