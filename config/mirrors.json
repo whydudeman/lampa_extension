@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-05T11:09:39.193Z",
+  "updatedAt": "2026-10-06T10:59:50.872Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -58,6 +58,14 @@
         "https://shuttletv.me"
       ]
     },
+    "atlantic": {
+      "name": "Atlantic",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://atlantic.st"
+      ]
+    },
     "7movies": {
       "name": "7Movies",
       "section": "Stream Aggregators",
@@ -80,7 +88,7 @@
     "stellar": {
       "name": "Stellar",
       "section": "Stream Aggregators",
-      "starred": true,
+      "starred": false,
       "hosts": [
         "https://stellar.gdn"
       ]
@@ -137,14 +145,6 @@
       "hosts": [
         "https://beta.way2movies.live",
         "https://way2movies.live"
-      ]
-    },
-    "toustream": {
-      "name": "TouStream",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://toustream.xyz"
       ]
     },
     "vivarium": {
@@ -463,14 +463,6 @@
         "https://3eyedraven.watch"
       ]
     },
-    "atlantic": {
-      "name": "Atlantic",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://atlantic.st"
-      ]
-    },
     "vaultplayer": {
       "name": "VaultPlayer",
       "section": "Stream Aggregators",
@@ -511,14 +503,6 @@
       "starred": false,
       "hosts": [
         "https://smashystream.xyz"
-      ]
-    },
-    "novera": {
-      "name": "NOVERA",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://novera.tv"
       ]
     },
     "nova": {
@@ -568,14 +552,6 @@
       "starred": false,
       "hosts": [
         "https://popwatch.to"
-      ]
-    },
-    "surfacestream": {
-      "name": "Surface Stream",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://watchsurface.stream"
       ]
     },
     "framextv": {
