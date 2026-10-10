@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-09T11:06:39.492Z",
+  "updatedAt": "2026-10-10T10:24:25.291Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -93,13 +93,12 @@
         "https://stellar.gdn"
       ]
     },
-    "67movies": {
-      "name": "67Movies",
+    "vivarium": {
+      "name": "Vivarium",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://67movies.st",
-        "https://phantomflix.net"
+        "https://vivarium.su"
       ]
     },
     "meowtv": {
@@ -144,14 +143,6 @@
       "hosts": [
         "https://beta.way2movies.live",
         "https://way2movies.live"
-      ]
-    },
-    "vivarium": {
-      "name": "Vivarium",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://vivarium.su"
       ]
     },
     "reelix": {
@@ -656,14 +647,6 @@
         "https://streamwatch.pages.dev"
       ]
     },
-    "novashow": {
-      "name": "NovaShow",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://novashow.live"
-      ]
-    },
     "fmfau": {
       "name": "⁠FMFAU",
       "section": "P-Stream Forks",
@@ -935,6 +918,15 @@
       "starred": false,
       "hosts": [
         "https://zetmoon.live"
+      ]
+    },
+    "67movies": {
+      "name": "67Movies",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://67movies.st",
+        "https://phantomflix.net"
       ]
     },
     "tonkacine": {
