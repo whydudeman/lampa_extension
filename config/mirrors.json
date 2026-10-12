@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-11T10:34:54.609Z",
+  "updatedAt": "2026-10-12T11:38:09.090Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -93,6 +93,17 @@
         "https://stellar.gdn"
       ]
     },
+    "arrowtv": {
+      "name": "ArrowTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://arrowtv.net",
+        "https://neonflix.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
+      ]
+    },
     "vivarium": {
       "name": "Vivarium",
       "section": "Stream Aggregators",
@@ -106,7 +117,8 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://meowtv.ru"
+        "https://meowtv.ru",
+        "https://flickystream.mov"
       ]
     },
     "movienight": {
@@ -123,17 +135,6 @@
       "starred": false,
       "hosts": [
         "https://streamo.pro"
-      ]
-    },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://neonflix.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
       ]
     },
     "way2movies": {
@@ -178,6 +179,14 @@
         "https://chillflix.lol"
       ]
     },
+    "moanatv": {
+      "name": "moanatv.",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://lfmx.app"
+      ]
+    },
     "moviebite": {
       "name": "MovieBite",
       "section": "Stream Aggregators",
@@ -210,6 +219,23 @@
         "https://svstream.cc",
         "https://nomorflix.cc",
         "https://diostream.cc"
+      ]
+    },
+    "cinex": {
+      "name": "Cinex",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinex.lol",
+        "https://cinemove.cc"
+      ]
+    },
+    "vuflix": {
+      "name": "Vuflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://vuflix.co"
       ]
     },
     "bcine": {
@@ -249,22 +275,6 @@
         "https://noirx.live"
       ]
     },
-    "moanatv": {
-      "name": "moanatv.",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://lfmx.app"
-      ]
-    },
-    "cinemove": {
-      "name": "Cinemove",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinemove.cc"
-      ]
-    },
     "nippleflix": {
       "name": "Nippleflix",
       "section": "Stream Aggregators",
@@ -274,14 +284,6 @@
         "https://redflix.one",
         "https://redflix.club",
         "https://pantyflix.com"
-      ]
-    },
-    "vuflix": {
-      "name": "Vuflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://vuflix.co"
       ]
     },
     "gaiaflix": {
@@ -314,14 +316,6 @@
       "starred": false,
       "hosts": [
         "https://moonflix.website"
-      ]
-    },
-    "toflix": {
-      "name": "Toflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://toflix.co"
       ]
     },
     "cinegram": {
@@ -537,6 +531,15 @@
         "https://screenscape.me"
       ]
     },
+    "streamvaults": {
+      "name": "StreamVaults",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://streamvaults.ru",
+        "https://rreelstream.live"
+      ]
+    },
     "greybox": {
       "name": "GreyBox",
       "section": "Stream Aggregators",
@@ -558,16 +561,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://framextv.tech"
-      ]
-    },
-    "streamvaults": {
-      "name": "StreamVaults",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://streamvaults.ru",
-        "https://rreelstream.live"
+        "https://framextv.xyz"
       ]
     },
     "nxsha": {
@@ -695,7 +689,7 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://pressplayz.to"
+        "https://pressplayx.to"
       ]
     },
     "streamingunity": {
@@ -1027,6 +1021,14 @@
         "https://cinestream.kje.us"
       ]
     },
+    "toflix": {
+      "name": "Toflix",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://toflix.co"
+      ]
+    },
     "youflex": {
       "name": "Youflex",
       "section": "Multi-Server",
@@ -1280,7 +1282,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://milkbox.sytes.net"
+        "https://milkbox.ddns.net"
       ]
     },
     "streamex": {
