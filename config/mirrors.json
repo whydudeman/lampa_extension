@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-12T11:38:09.090Z",
+  "updatedAt": "2026-10-13T11:23:27.237Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -171,14 +171,6 @@
         "https://flystream.net"
       ]
     },
-    "chillflix": {
-      "name": "Chillflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://chillflix.lol"
-      ]
-    },
     "moanatv": {
       "name": "moanatv.",
       "section": "Stream Aggregators",
@@ -221,21 +213,12 @@
         "https://diostream.cc"
       ]
     },
-    "cinex": {
-      "name": "Cinex",
+    "cinemove": {
+      "name": "Cinemove",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://cinex.lol",
         "https://cinemove.cc"
-      ]
-    },
-    "vuflix": {
-      "name": "Vuflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://vuflix.co"
       ]
     },
     "bcine": {
@@ -284,6 +267,14 @@
         "https://redflix.one",
         "https://redflix.club",
         "https://pantyflix.com"
+      ]
+    },
+    "thugtv": {
+      "name": "ThugTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://thugtv.online"
       ]
     },
     "gaiaflix": {
@@ -440,14 +431,6 @@
         "https://flixtrz.com"
       ]
     },
-    "thugtv": {
-      "name": "ThugTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://thugtv.online"
-      ]
-    },
     "vaultplayer": {
       "name": "VaultPlayer",
       "section": "Stream Aggregators",
@@ -562,6 +545,14 @@
       "starred": false,
       "hosts": [
         "https://framextv.xyz"
+      ]
+    },
+    "allaboutmovies": {
+      "name": "All About Movies",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://allaboutmovies.xyz"
       ]
     },
     "nxsha": {
@@ -1021,14 +1012,6 @@
         "https://cinestream.kje.us"
       ]
     },
-    "toflix": {
-      "name": "Toflix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://toflix.co"
-      ]
-    },
     "youflex": {
       "name": "Youflex",
       "section": "Multi-Server",
@@ -1142,14 +1125,6 @@
       "hosts": [
         "https://flixvo.live",
         "https://flixvo.fun"
-      ]
-    },
-    "allaboutmovies": {
-      "name": "All About Movies",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://allaboutmovies.xyz"
       ]
     },
     "candlestream": {
