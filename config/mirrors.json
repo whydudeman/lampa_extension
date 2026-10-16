@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-15T08:49:10.722Z",
+  "updatedAt": "2026-10-16T08:43:51.043Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -43,6 +43,14 @@
         "https://7movies.ac"
       ]
     },
+    "atlantic": {
+      "name": "Atlantic",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://atlantic.st"
+      ]
+    },
     "shuttletv": {
       "name": "ShuttleTV",
       "section": "Stream Aggregators",
@@ -59,14 +67,6 @@
       "starred": true,
       "hosts": [
         "https://flystream.net"
-      ]
-    },
-    "atlantic": {
-      "name": "Atlantic",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://atlantic.st"
       ]
     },
     "rive": {
@@ -129,6 +129,14 @@
         "https://www.flikhub.net"
       ]
     },
+    "dulo": {
+      "name": "dulo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://dulo.mov"
+      ]
+    },
     "movienight": {
       "name": "Movie Night",
       "section": "Stream Aggregators",
@@ -189,14 +197,6 @@
         "https://lfmx.app"
       ]
     },
-    "cinetaro": {
-      "name": "Cinetaro",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinetaro.to"
-      ]
-    },
     "moviebite": {
       "name": "MovieBite",
       "section": "Stream Aggregators",
@@ -205,12 +205,31 @@
         "https://moviebite.org"
       ]
     },
+    "nippleflix": {
+      "name": "Nippleflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://nippleflix.com",
+        "https://redflix.one",
+        "https://redflix.club",
+        "https://pantyflix.com"
+      ]
+    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://bingebang.st"
+      ]
+    },
+    "moonflix": {
+      "name": "Moonflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moonflix.website"
       ]
     },
     "cinemabz": {
@@ -246,7 +265,15 @@
       "starred": false,
       "hosts": [
         "https://freekz.to",
-        "https://zxcprime.icu"
+        "https://zxcstream.com"
+      ]
+    },
+    "cinetaro": {
+      "name": "Cinetaro",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinetaro.to"
       ]
     },
     "movish": {
@@ -269,17 +296,6 @@
         "https://noirx.live"
       ]
     },
-    "nippleflix": {
-      "name": "Nippleflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://nippleflix.com",
-        "https://redflix.one",
-        "https://redflix.club",
-        "https://pantyflix.com"
-      ]
-    },
     "thugtv": {
       "name": "ThugTV",
       "section": "Stream Aggregators",
@@ -296,28 +312,12 @@
         "https://gaiaflix.live"
       ]
     },
-    "dulo": {
-      "name": "dulo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://dulo.mov"
-      ]
-    },
     "vidplay": {
       "name": "VidPlay",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://vidplay.to"
-      ]
-    },
-    "moonflix": {
-      "name": "Moonflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moonflix.website"
       ]
     },
     "cinegram": {
@@ -476,14 +476,6 @@
         "https://novahd.cc"
       ]
     },
-    "zoryvax": {
-      "name": "Zoryva X",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://zoryva.me"
-      ]
-    },
     "youplex": {
       "name": "Youplex",
       "section": "Stream Aggregators",
@@ -540,6 +532,14 @@
       "starred": false,
       "hosts": [
         "https://kofi.mov"
+      ]
+    },
+    "cinesu": {
+      "name": "Cinesu",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cine.su"
       ]
     },
     "framextv": {
@@ -881,7 +881,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://anicine.xyz"
+        "https://anicine.sbs"
       ]
     },
     "zetmoon": {
@@ -1024,14 +1024,6 @@
         "https://flixway.ru"
       ]
     },
-    "flixmix": {
-      "name": "Flixmix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://flixmix.site"
-      ]
-    },
     "321movies": {
       "name": "321Movies",
       "section": "Multi-Server",
@@ -1048,28 +1040,12 @@
         "https://www.framemovie.online"
       ]
     },
-    "kirastreams": {
-      "name": "KiraStreams",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://kirastreams.pages.dev"
-      ]
-    },
     "flyflix": {
       "name": "Flyflix",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://flyflix.net"
-      ]
-    },
-    "cinesu": {
-      "name": "Cinesu",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://cine.su"
       ]
     },
     "fluxtv": {
@@ -1088,29 +1064,12 @@
         "https://cinevibe.cc"
       ]
     },
-    "moviefy": {
-      "name": "MovieFY",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://player.xtra.wtf"
-      ]
-    },
     "reelzone": {
       "name": "ReelZone",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://reelzone.icu"
-      ]
-    },
-    "watchott": {
-      "name": "Watchott",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://watchott.org",
-        "https://emnexmovies.tech"
       ]
     },
     "flixvo": {
@@ -1128,14 +1087,6 @@
       "starred": false,
       "hosts": [
         "https://candlestream.xyz"
-      ]
-    },
-    "zflix": {
-      "name": "ZFlix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://zflix.me"
       ]
     },
     "flicker": {
@@ -1195,7 +1146,7 @@
       "hosts": [
         "https://watchseries.bar",
         "https://watchseries.cool",
-        "https://watchseries.domain"
+        "https://watchseries.domains"
       ]
     },
     "pawflix": {
@@ -1264,14 +1215,6 @@
       "starred": false,
       "hosts": [
         "https://zerostream.alwaysdata.net"
-      ]
-    },
-    "freeintertv": {
-      "name": "FreeInterTV",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "http://www.freeintertv.com"
       ]
     },
     "fishystream": {
@@ -1353,14 +1296,6 @@
       "starred": false,
       "hosts": [
         "https://heartivelovestv.pages.dev"
-      ]
-    },
-    "cinego": {
-      "name": "CineGo",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://cinego.co"
       ]
     },
     "moviepire": {
