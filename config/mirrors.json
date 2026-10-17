@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-16T08:43:51.043Z",
+  "updatedAt": "2026-10-17T08:14:19.460Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -40,7 +40,8 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://7movies.ac"
+        "https://7movies.ac",
+        "https://7movies.ws"
       ]
     },
     "atlantic": {
@@ -150,7 +151,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://streamo.pro"
+        "https://streamo.st"
       ]
     },
     "way2movies": {
@@ -195,6 +196,14 @@
       "starred": false,
       "hosts": [
         "https://lfmx.app"
+      ]
+    },
+    "cinetaro": {
+      "name": "Cinetaro",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinetaro.to"
       ]
     },
     "moviebite": {
@@ -259,6 +268,14 @@
         "https://cinex.lol"
       ]
     },
+    "cinelite": {
+      "name": "CineLite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinelite.xyz"
+      ]
+    },
     "freekz": {
       "name": "Freekz",
       "section": "Stream Aggregators",
@@ -266,14 +283,6 @@
       "hosts": [
         "https://freekz.to",
         "https://zxcstream.com"
-      ]
-    },
-    "cinetaro": {
-      "name": "Cinetaro",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinetaro.to"
       ]
     },
     "movish": {
@@ -432,6 +441,14 @@
       "starred": false,
       "hosts": [
         "https://flixtrz.com"
+      ]
+    },
+    "cineruv": {
+      "name": "cineruv",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cineruv.website"
       ]
     },
     "vaultplayer": {
@@ -1072,6 +1089,14 @@
         "https://reelzone.icu"
       ]
     },
+    "heartive": {
+      "name": "Heartive",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://heartivelovestv.pages.dev"
+      ]
+    },
     "flixvo": {
       "name": "Flixvo",
       "section": "Multi-Server",
@@ -1282,20 +1307,20 @@
         "https://rabbitmeow.online"
       ]
     },
+    "ev01": {
+      "name": "Ev01",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://ev01.ws"
+      ]
+    },
     "warflix": {
       "name": "Warflix",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://warflix.im"
-      ]
-    },
-    "heartive": {
-      "name": "Heartive",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://heartivelovestv.pages.dev"
       ]
     },
     "moviepire": {
