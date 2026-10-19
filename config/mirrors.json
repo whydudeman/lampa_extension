@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-18T08:31:38.844Z",
+  "updatedAt": "2026-10-19T09:34:13.654Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -94,14 +94,6 @@
         "https://hexa.su"
       ]
     },
-    "stellar": {
-      "name": "Stellar",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://stellar.gdn"
-      ]
-    },
     "vivarium": {
       "name": "Vivarium",
       "section": "Stream Aggregators",
@@ -117,6 +109,14 @@
       "hosts": [
         "https://meowtv.ru",
         "https://flickystream.mov"
+      ]
+    },
+    "cinelite": {
+      "name": "CineLite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinelite.xyz"
       ]
     },
     "arrowtv": {
@@ -241,6 +241,14 @@
         "https://moonflix.website"
       ]
     },
+    "stellar": {
+      "name": "Stellar",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://stellar.gdn"
+      ]
+    },
     "cinemabz": {
       "name": "Cinema (BZ)",
       "section": "Stream Aggregators",
@@ -266,14 +274,6 @@
       "hosts": [
         "https://cinemove.cc",
         "https://cinex.lol"
-      ]
-    },
-    "cinelite": {
-      "name": "CineLite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinelite.xyz"
       ]
     },
     "freekz": {
@@ -359,15 +359,6 @@
       "starred": false,
       "hosts": [
         "https://lightflix.app"
-      ]
-    },
-    "boomflix": {
-      "name": "Boomflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://boomflix.pages.dev",
-        "https://boomflix.qzz.io"
       ]
     },
     "overlook": {
@@ -540,7 +531,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://greywatchbox.pages.dev"
+        "https://greyboxtv.vercel.app"
       ]
     },
     "kofi": {
@@ -565,14 +556,6 @@
       "starred": false,
       "hosts": [
         "https://framextv.xyz"
-      ]
-    },
-    "allaboutmovies": {
-      "name": "All About Movies",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://allaboutmovies.xyz"
       ]
     },
     "nxsha": {
@@ -1057,6 +1040,14 @@
         "https://www.framemovie.online"
       ]
     },
+    "kaitovault": {
+      "name": "KaitoVault",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://kaitotv.com"
+      ]
+    },
     "flyflix": {
       "name": "Flyflix",
       "section": "Multi-Server",
@@ -1180,14 +1171,6 @@
       "starred": false,
       "hosts": [
         "https://pawflix.foo.ng"
-      ]
-    },
-    "kaitovault": {
-      "name": "KaitoVault",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.kaitovault.com"
       ]
     },
     "cinebytv": {
