@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-19T09:34:13.654Z",
+  "updatedAt": "2026-10-20T09:06:15.339Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -119,6 +119,14 @@
         "https://cinelite.xyz"
       ]
     },
+    "streamo": {
+      "name": "Streamo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://streamo.st"
+      ]
+    },
     "arrowtv": {
       "name": "ArrowTV",
       "section": "Stream Aggregators",
@@ -144,14 +152,6 @@
       "starred": false,
       "hosts": [
         "https://movienig.ht"
-      ]
-    },
-    "streamo": {
-      "name": "Streamo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://streamo.st"
       ]
     },
     "way2movies": {
@@ -492,6 +492,14 @@
         "https://youplex.site"
       ]
     },
+    "zoryvax": {
+      "name": "Zoryva X",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://zoryva.me"
+      ]
+    },
     "popcorntime": {
       "name": "PopcornTime",
       "section": "Stream Aggregators",
@@ -643,6 +651,14 @@
         "https://peestream.in"
       ]
     },
+    "cnotv": {
+      "name": "Cno.tv",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://cno.to"
+      ]
+    },
     "nepu": {
       "name": "NEPU",
       "section": "Dedicated-Server",
@@ -651,15 +667,6 @@
         "https://nepu.io",
         "https://nepu.app",
         "https://nepu.is"
-      ]
-    },
-    "ee3": {
-      "name": "EE3",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://ee3.me",
-        "https://rips.cc"
       ]
     },
     "pressplay": {
@@ -972,7 +979,8 @@
       "hosts": [
         "https://vidbox.vc",
         "https://cinehd.vc",
-        "https://hotflix.to"
+        "https://hotflix.to",
+        "https://vidbox.wtf"
       ]
     },
     "zencine": {
