@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-22T09:08:20.265Z",
+  "updatedAt": "2026-10-23T09:04:49.677Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -24,15 +24,6 @@
       "starred": true,
       "hosts": [
         "https://cinejoy.pk"
-      ]
-    },
-    "popcornmovies": {
-      "name": "PopcornMovies",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://popcornmovies.ac",
-        "https://bingebox.ac"
       ]
     },
     "7movies": {
@@ -111,6 +102,16 @@
         "https://flickystream.mov"
       ]
     },
+    "chillflix": {
+      "name": "Chillflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://chillflix.lol",
+        "https://vuflix.co",
+        "https://toflix.co"
+      ]
+    },
     "cinelite": {
       "name": "CineLite",
       "section": "Stream Aggregators",
@@ -125,17 +126,6 @@
       "starred": false,
       "hosts": [
         "https://streamo.st"
-      ]
-    },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://neonflix.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
       ]
     },
     "dulo": {
@@ -186,22 +176,6 @@
       "starred": false,
       "hosts": [
         "https://lfmx.app"
-      ]
-    },
-    "cinetaro": {
-      "name": "Cinetaro",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinetaro.to"
-      ]
-    },
-    "moviebite": {
-      "name": "MovieBite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moviebite.org"
       ]
     },
     "nippleflix": {
@@ -416,14 +390,32 @@
         "https://3eyedraven.watch"
       ]
     },
-    "chillflix": {
-      "name": "Chillflix",
+    "arrowtv": {
+      "name": "ArrowTV",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://chillflix.lol",
-        "https://vuflix.co",
-        "https://toflix.co"
+        "https://arrowtv.net",
+        "https://neonflix.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
+      ]
+    },
+    "cinetaro": {
+      "name": "Cinetaro",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinetaro.to"
+      ]
+    },
+    "popcornmovies": {
+      "name": "PopcornMovies",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://popcornmovies.ac",
+        "https://bingebox.ac"
       ]
     },
     "flixtrz": {
@@ -440,6 +432,14 @@
       "starred": false,
       "hosts": [
         "https://cineruv.website"
+      ]
+    },
+    "moviebite": {
+      "name": "MovieBite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moviebite.org"
       ]
     },
     "vaultplayer": {
