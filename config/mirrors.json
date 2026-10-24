@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-23T09:04:49.677Z",
+  "updatedAt": "2026-10-24T08:36:39.370Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -100,6 +100,17 @@
       "hosts": [
         "https://meowtv.ru",
         "https://flickystream.mov"
+      ]
+    },
+    "arrowtv": {
+      "name": "ArrowTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://arrowtv.net",
+        "https://neonflix.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
       ]
     },
     "chillflix": {
@@ -202,7 +213,8 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://lightflix.app"
+        "https://lightflix.app",
+        "https://afterdusk.app"
       ]
     },
     "moonflix": {
@@ -211,14 +223,6 @@
       "starred": false,
       "hosts": [
         "https://moonflix.website"
-      ]
-    },
-    "stellar": {
-      "name": "Stellar",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://stellar.gdn"
       ]
     },
     "cinemabz": {
@@ -390,17 +394,6 @@
         "https://3eyedraven.watch"
       ]
     },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://neonflix.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
-      ]
-    },
     "cinetaro": {
       "name": "Cinetaro",
       "section": "Stream Aggregators",
@@ -424,6 +417,22 @@
       "starred": false,
       "hosts": [
         "https://flixtrz.com"
+      ]
+    },
+    "consumit": {
+      "name": "Consumit",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://consumit.online"
+      ]
+    },
+    "nexa": {
+      "name": "Nexa",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://nexa.mov"
       ]
     },
     "cineruv": {
@@ -587,9 +596,9 @@
       "section": "P-Stream Forks",
       "starred": false,
       "hosts": [
-        "https://aether.ist",
+        "https://aether.st",
         "https://aether.cx",
-        "https://aether.st"
+        "https://aether.ist"
       ]
     },
     "basement": {
@@ -615,14 +624,6 @@
       "starred": false,
       "hosts": [
         "https://cinefork.net"
-      ]
-    },
-    "pstreamfork": {
-      "name": "⁠P-Stream Fork",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://pstream.cfd"
       ]
     },
     "streamwatch": {
