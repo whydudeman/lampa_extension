@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-24T08:36:39.370Z",
+  "updatedAt": "2026-10-25T08:56:01.965Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -24,6 +24,15 @@
       "starred": true,
       "hosts": [
         "https://cinejoy.pk"
+      ]
+    },
+    "popcornmovies": {
+      "name": "PopcornMovies",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://popcornmovies.ac",
+        "https://bingebox.ac"
       ]
     },
     "7movies": {
@@ -61,6 +70,14 @@
         "https://flystream.net"
       ]
     },
+    "vivarium": {
+      "name": "Vivarium",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://vivarium.su"
+      ]
+    },
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
@@ -83,14 +100,6 @@
         "https://flixer.su",
         "https://flixer.cx",
         "https://hexa.su"
-      ]
-    },
-    "vivarium": {
-      "name": "Vivarium",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://vivarium.su"
       ]
     },
     "meowtv": {
@@ -225,6 +234,14 @@
         "https://moonflix.website"
       ]
     },
+    "thugtv": {
+      "name": "ThugTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://thugtv.online"
+      ]
+    },
     "cinemabz": {
       "name": "Cinema (BZ)",
       "section": "Stream Aggregators",
@@ -279,14 +296,6 @@
         "https://cinemaos.tech",
         "https://noirx.me",
         "https://noirx.live"
-      ]
-    },
-    "thugtv": {
-      "name": "ThugTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://thugtv.online"
       ]
     },
     "gaiaflix": {
@@ -400,15 +409,6 @@
       "starred": false,
       "hosts": [
         "https://cinetaro.to"
-      ]
-    },
-    "popcornmovies": {
-      "name": "PopcornMovies",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://popcornmovies.ac",
-        "https://bingebox.ac"
       ]
     },
     "flixtrz": {
@@ -548,7 +548,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://greyboxtv.vercel.app"
+        "https://greyboxtv.pages.dev"
       ]
     },
     "kofi": {
@@ -557,14 +557,6 @@
       "starred": false,
       "hosts": [
         "https://kofi.mov"
-      ]
-    },
-    "cinesu": {
-      "name": "Cinesu",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cine.su"
       ]
     },
     "framextv": {
@@ -657,7 +649,8 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://cno.to"
+        "https://cno.to",
+        "https://beta.cno.to"
       ]
     },
     "nepu": {
@@ -1005,7 +998,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://cinestream.kje.us"
+        "https://cinestream2.kje.us"
       ]
     },
     "youflex": {
@@ -1021,7 +1014,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://flixzy.pages.dev"
+        "https://flixzy.mooo.com"
       ]
     },
     "filmcave": {
