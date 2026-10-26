@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-25T08:56:01.965Z",
+  "updatedAt": "2026-10-26T09:39:37.703Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -81,7 +81,7 @@
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
-      "starred": true,
+      "starred": false,
       "hosts": [
         "https://www.rivestream.app",
         "https://rivestream.ru",
@@ -111,6 +111,14 @@
         "https://flickystream.mov"
       ]
     },
+    "cinelite": {
+      "name": "CineLite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinelite.xyz"
+      ]
+    },
     "arrowtv": {
       "name": "ArrowTV",
       "section": "Stream Aggregators",
@@ -130,14 +138,6 @@
         "https://chillflix.lol",
         "https://vuflix.co",
         "https://toflix.co"
-      ]
-    },
-    "cinelite": {
-      "name": "CineLite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinelite.xyz"
       ]
     },
     "streamo": {
@@ -278,6 +278,14 @@
         "https://zxcstream.com"
       ]
     },
+    "greybox": {
+      "name": "GreyBox",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://greyboxtv.pages.dev"
+      ]
+    },
     "movish": {
       "name": "Movish",
       "section": "Stream Aggregators",
@@ -314,20 +322,20 @@
         "https://vidplay.to"
       ]
     },
-    "cinegram": {
-      "name": "Cinegram",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinegram.tv"
-      ]
-    },
     "willow": {
       "name": "Willow",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://willow.arlen.icu"
+      ]
+    },
+    "rivo": {
+      "name": "RIVO",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://rivo.st"
       ]
     },
     "hivex": {
@@ -346,12 +354,12 @@
         "https://overlook.cx"
       ]
     },
-    "stigstream": {
-      "name": "Stigstream",
+    "zenox": {
+      "name": "Zenox",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://stigstream.ru"
+        "https://zenox.lol"
       ]
     },
     "cineapse": {
@@ -459,6 +467,14 @@
         "https://vaultplayer.co.uk"
       ]
     },
+    "koddo": {
+      "name": "Koddo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://koddo.to"
+      ]
+    },
     "mapple": {
       "name": "Mapple",
       "section": "Stream Aggregators",
@@ -534,23 +550,6 @@
         "https://screenscape.me"
       ]
     },
-    "streamvaults": {
-      "name": "StreamVaults",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://streamvaults.ru",
-        "https://rreelstream.live"
-      ]
-    },
-    "greybox": {
-      "name": "GreyBox",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://greyboxtv.pages.dev"
-      ]
-    },
     "kofi": {
       "name": "Kofi",
       "section": "Stream Aggregators",
@@ -565,6 +564,14 @@
       "starred": false,
       "hosts": [
         "https://framextv.xyz"
+      ]
+    },
+    "allaboutmovies": {
+      "name": "All About Movies",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://allaboutmovies.pages.dev"
       ]
     },
     "nxsha": {
@@ -864,7 +871,11 @@
       "starred": false,
       "hosts": [
         "https://lookmovie2.to",
-        "https://lookmovie2.la"
+        "https://lookmovie2.la",
+        "https://lookmovie0.to",
+        "https://lookmovie4.to",
+        "https://lookmovie5.to",
+        "https://lookmovie6.to"
       ]
     },
     "1shows": {
@@ -940,15 +951,6 @@
         "https://anixtv.in"
       ]
     },
-    "aurorascreen": {
-      "name": "AuroraScreen",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://aurorascreen.org",
-        "https://aurorascreen.pages.dev"
-      ]
-    },
     "hydrahd": {
       "name": "HydraHD",
       "section": "Multi-Server",
@@ -1017,12 +1019,11 @@
         "https://flixzy.mooo.com"
       ]
     },
-    "filmcave": {
-      "name": "FilmCave",
+    "flixway": {
+      "name": "Flixway",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://filmcave.ru",
         "https://flixway.ru"
       ]
     },
@@ -1032,14 +1033,6 @@
       "starred": false,
       "hosts": [
         "https://321movies.xyz"
-      ]
-    },
-    "frame": {
-      "name": "FRAME",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.framemovie.online"
       ]
     },
     "kaitovault": {
@@ -1055,15 +1048,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://flyflix.net"
-      ]
-    },
-    "fluxtv": {
-      "name": "FluxTV",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://fluxtv.co.uk"
+        "https://flyflix.cc"
       ]
     },
     "cinevibe": {
@@ -1120,9 +1105,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://onoflix.live",
-        "https://onoflix.com",
-        "https://ggflix.pro"
+        "https://onoflix.live"
       ]
     },
     "bingeflix": {
@@ -1147,14 +1130,6 @@
       "starred": false,
       "hosts": [
         "https://ernax.pro"
-      ]
-    },
-    "flnk": {
-      "name": "FLNK",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://flnk.fun"
       ]
     },
     "watchseries": {
