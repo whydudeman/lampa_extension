@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-27T09:34:25.780Z",
+  "updatedAt": "2026-10-28T10:19:46.274Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -81,7 +81,7 @@
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
         "https://www.rivestream.app",
         "https://rivestream.ru",
@@ -242,6 +242,15 @@
         "https://thugtv.online"
       ]
     },
+    "mzone": {
+      "name": "M-Zone",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://m-zone.cc",
+        "https://m-zone.org"
+      ]
+    },
     "cinemabz": {
       "name": "Cinema (BZ)",
       "section": "Stream Aggregators",
@@ -267,6 +276,14 @@
       "hosts": [
         "https://cinemove.cc",
         "https://cinex.lol"
+      ]
+    },
+    "moviebite": {
+      "name": "MovieBite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moviebite.org"
       ]
     },
     "freekz": {
@@ -306,14 +323,6 @@
         "https://noirx.live"
       ]
     },
-    "gaiaflix": {
-      "name": "GaiaFlix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://gaiaflix.live"
-      ]
-    },
     "vidplay": {
       "name": "VidPlay",
       "section": "Stream Aggregators",
@@ -327,7 +336,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://willow.arlen.icu"
+        "https://willowmovies.com"
       ]
     },
     "rivo": {
@@ -376,15 +385,6 @@
       "starred": false,
       "hosts": [
         "https://bingr.one"
-      ]
-    },
-    "mzone": {
-      "name": "M-Zone",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://m-zone.cc",
-        "https://m-zone.org"
       ]
     },
     "stellarrip": {
@@ -451,28 +451,12 @@
         "https://cineruv.website"
       ]
     },
-    "moviebite": {
-      "name": "MovieBite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moviebite.org"
-      ]
-    },
     "vaultplayer": {
       "name": "VaultPlayer",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://vaultplayer.co.uk"
-      ]
-    },
-    "koddo": {
-      "name": "Koddo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://koddo.to"
       ]
     },
     "mapple": {
