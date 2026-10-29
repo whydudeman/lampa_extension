@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-28T10:19:46.274Z",
+  "updatedAt": "2026-10-29T10:41:56.532Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -226,6 +226,14 @@
         "https://afterdusk.app"
       ]
     },
+    "moviebite": {
+      "name": "MovieBite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moviebite.org"
+      ]
+    },
     "moonflix": {
       "name": "Moonflix",
       "section": "Stream Aggregators",
@@ -275,15 +283,8 @@
       "starred": false,
       "hosts": [
         "https://cinemove.cc",
+        "https://watchly.mom",
         "https://cinex.lol"
-      ]
-    },
-    "moviebite": {
-      "name": "MovieBite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moviebite.org"
       ]
     },
     "freekz": {
@@ -409,6 +410,14 @@
       "starred": false,
       "hosts": [
         "https://3eyedraven.watch"
+      ]
+    },
+    "koddo": {
+      "name": "Koddo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://koddo.to"
       ]
     },
     "cinetaro": {
@@ -867,7 +876,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "http://1shows.bz",
+        "http://1shows.org",
         "https://www.1flex.org",
         "https://www.1tube.org"
       ]
