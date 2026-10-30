@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-29T10:41:56.532Z",
+  "updatedAt": "2026-10-30T10:42:06.263Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -49,7 +49,8 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://atlantic.st"
+        "https://atlantic.st",
+        "https://fprime.at"
       ]
     },
     "shuttletv": {
@@ -59,7 +60,8 @@
       "hosts": [
         "https://shuttletv.su",
         "https://shuttletv.pk",
-        "https://shuttletv.me"
+        "https://shuttletv.me",
+        "https://shuttletv.cr"
       ]
     },
     "flystream": {
@@ -234,6 +236,14 @@
         "https://moviebite.org"
       ]
     },
+    "zenox": {
+      "name": "Zenox",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://zenox.lol"
+      ]
+    },
     "moonflix": {
       "name": "Moonflix",
       "section": "Stream Aggregators",
@@ -362,14 +372,6 @@
       "starred": false,
       "hosts": [
         "https://overlook.cx"
-      ]
-    },
-    "zenox": {
-      "name": "Zenox",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://zenox.lol"
       ]
     },
     "cineapse": {
