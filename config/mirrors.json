@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-30T10:42:06.263Z",
+  "updatedAt": "2026-10-31T10:10:14.638Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -83,7 +83,7 @@
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
-      "starred": true,
+      "starred": false,
       "hosts": [
         "https://www.rivestream.app",
         "https://rivestream.ru",
@@ -140,14 +140,6 @@
         "https://chillflix.lol",
         "https://vuflix.co",
         "https://toflix.co"
-      ]
-    },
-    "streamo": {
-      "name": "Streamo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://streamo.st"
       ]
     },
     "dulo": {
