@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-10-31T10:10:14.638Z",
+  "updatedAt": "2026-11-01T11:00:16.560Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -326,6 +326,15 @@
         "https://noirx.live"
       ]
     },
+    "taroflix": {
+      "name": "TaroFlix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://taroflix.net",
+        "https://cinetaro.to"
+      ]
+    },
     "vidplay": {
       "name": "VidPlay",
       "section": "Stream Aggregators",
@@ -412,14 +421,6 @@
       "starred": false,
       "hosts": [
         "https://koddo.to"
-      ]
-    },
-    "cinetaro": {
-      "name": "Cinetaro",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinetaro.to"
       ]
     },
     "flixtrz": {
@@ -1124,9 +1125,8 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://watchseries.bar",
         "https://watchseries.cool",
-        "https://watchseries.domains"
+        "https://watchseries.bar"
       ]
     },
     "pawflix": {
