@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-01T11:00:16.560Z",
+  "updatedAt": "2026-11-02T11:59:00.176Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -236,6 +236,14 @@
         "https://zenox.lol"
       ]
     },
+    "nexa": {
+      "name": "Nexa",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://nexa.mov"
+      ]
+    },
     "moonflix": {
       "name": "Moonflix",
       "section": "Stream Aggregators",
@@ -287,6 +295,14 @@
         "https://cinemove.cc",
         "https://watchly.mom",
         "https://cinex.lol"
+      ]
+    },
+    "koddo": {
+      "name": "Koddo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://koddo.to"
       ]
     },
     "freekz": {
@@ -415,14 +431,6 @@
         "https://3eyedraven.watch"
       ]
     },
-    "koddo": {
-      "name": "Koddo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://koddo.to"
-      ]
-    },
     "flixtrz": {
       "name": "Flixtrz",
       "section": "Stream Aggregators",
@@ -437,14 +445,6 @@
       "starred": false,
       "hosts": [
         "https://consumit.online"
-      ]
-    },
-    "nexa": {
-      "name": "Nexa",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://nexa.mov"
       ]
     },
     "cineruv": {
