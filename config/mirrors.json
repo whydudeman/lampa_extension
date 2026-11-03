@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-02T11:59:00.176Z",
+  "updatedAt": "2026-11-03T11:35:52.148Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -228,6 +228,15 @@
         "https://moviebite.org"
       ]
     },
+    "67movies": {
+      "name": "67Movies",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://67movies.st",
+        "https://phantomflix.net"
+      ]
+    },
     "zenox": {
       "name": "Zenox",
       "section": "Stream Aggregators",
@@ -314,21 +323,20 @@
         "https://zxcstream.com"
       ]
     },
+    "rivo": {
+      "name": "RIVO",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://rivo.st"
+      ]
+    },
     "greybox": {
       "name": "GreyBox",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://greyboxtv.pages.dev"
-      ]
-    },
-    "movish": {
-      "name": "Movish",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://movish.to",
-        "https://latestmovies.net"
       ]
     },
     "cinemaos": {
@@ -365,14 +373,6 @@
       "starred": false,
       "hosts": [
         "https://willowmovies.com"
-      ]
-    },
-    "rivo": {
-      "name": "RIVO",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://rivo.st"
       ]
     },
     "hivex": {
@@ -892,24 +892,6 @@
         "https://zetmoon.live"
       ]
     },
-    "67movies": {
-      "name": "67Movies",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://67movies.st",
-        "https://phantomflix.net"
-      ]
-    },
-    "tonkacine": {
-      "name": "TonkaCine",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://tonkacine.watch",
-        "https://multi.tonkacine.watch"
-      ]
-    },
     "primeshows": {
       "name": "Primeshows",
       "section": "Multi-Server",
@@ -1007,20 +989,12 @@
         "https://flixzy.mooo.com"
       ]
     },
-    "flixway": {
-      "name": "Flixway",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://flixway.ru"
-      ]
-    },
     "321movies": {
       "name": "321Movies",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://321movies.xyz"
+        "https://fedsr.us"
       ]
     },
     "kaitovault": {
@@ -1045,14 +1019,6 @@
       "starred": false,
       "hosts": [
         "https://cinevibe.cc"
-      ]
-    },
-    "reelzone": {
-      "name": "ReelZone",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://reelzone.icu"
       ]
     },
     "heartive": {
@@ -1080,14 +1046,6 @@
         "https://candlestream.xyz"
       ]
     },
-    "flicker": {
-      "name": "Flicker",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://flicker-mini.pages.dev"
-      ]
-    },
     "onoflix": {
       "name": "ONOFLIX",
       "section": "Multi-Server",
@@ -1102,22 +1060,6 @@
       "starred": false,
       "hosts": [
         "https://bingeflix.tv"
-      ]
-    },
-    "7reels": {
-      "name": "7REELS",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://7reels.cc"
-      ]
-    },
-    "ernax": {
-      "name": "Ernax",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://ernax.pro"
       ]
     },
     "watchseries": {
@@ -1205,14 +1147,6 @@
         "https://snowstream.vercel.app"
       ]
     },
-    "streamgoblin": {
-      "name": "StreamGoblin",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://streamgoblin.cc"
-      ]
-    },
     "cinenest": {
       "name": "CineNest",
       "section": "Multi-Server",
@@ -1275,7 +1209,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://moviepire.org",
+        "https://moviepire.ru",
         "https://phland.org"
       ]
     },
