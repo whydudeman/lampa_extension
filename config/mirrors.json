@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-05T11:50:12.607Z",
+  "updatedAt": "2026-11-06T11:46:45.638Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -31,7 +31,7 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://popcornmovies.ac",
+        "https://popcornmovies.st",
         "https://bingebox.ac"
       ]
     },
@@ -49,7 +49,7 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://atlantic.st",
+        "https://atlantic.bz",
         "https://fprime.at"
       ]
     },
@@ -113,12 +113,32 @@
         "https://flickystream.mov"
       ]
     },
+    "sweetfox": {
+      "name": "SweetFox",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://sweetfox.app",
+        "https://67movies.st"
+      ]
+    },
     "cinelite": {
       "name": "CineLite",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://cinelite.xyz"
+      ]
+    },
+    "ghostflix": {
+      "name": "Ghostflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://ghostflix.st",
+        "https://redflix.one",
+        "https://redflix.club",
+        "https://pantyflix.com"
       ]
     },
     "arrowtv": {
@@ -150,14 +170,6 @@
         "https://dulo.mov"
       ]
     },
-    "movienight": {
-      "name": "Movie Night",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://movienig.ht"
-      ]
-    },
     "way2movies": {
       "name": "Way2Movies",
       "section": "Stream Aggregators",
@@ -165,6 +177,14 @@
       "hosts": [
         "https://beta.way2movies.live",
         "https://way2movies.live"
+      ]
+    },
+    "movienight": {
+      "name": "Movie Night",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://movienig.ht"
       ]
     },
     "reelix": {
@@ -192,17 +212,6 @@
         "https://lfmx.app"
       ]
     },
-    "ghostflix": {
-      "name": "GhostFlix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://ghostflix.st",
-        "https://redflix.one",
-        "https://redflix.club",
-        "https://pantyflix.com"
-      ]
-    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
@@ -228,13 +237,12 @@
         "https://moviebite.org"
       ]
     },
-    "sweetfox": {
-      "name": "SweetFox",
+    "watched": {
+      "name": "watched",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://sweetfox.app",
-        "https://67movies.st"
+        "https://watched.cx"
       ]
     },
     "moonflix": {
@@ -276,6 +284,14 @@
       "hosts": [
         "https://m-zone.cc",
         "https://m-zone.org"
+      ]
+    },
+    "bingr": {
+      "name": "Bingr",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://bingr.one"
       ]
     },
     "cinemabz": {
@@ -397,14 +413,6 @@
       "starred": false,
       "hosts": [
         "https://www.cineapse.net"
-      ]
-    },
-    "bingr": {
-      "name": "Bingr",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://bingr.one"
       ]
     },
     "stellarrip": {
@@ -658,6 +666,14 @@
         "https://pressplayx.to"
       ]
     },
+    "q62": {
+      "name": "Q62",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://q62flix.ws"
+      ]
+    },
     "streamingunity": {
       "name": "Streaming Unity",
       "section": "Dedicated-Server",
@@ -876,6 +892,14 @@
         "https://anicine.sbs"
       ]
     },
+    "aurorascreen": {
+      "name": "AuroraScreen",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.aurorascreen.org"
+      ]
+    },
     "zetmoon": {
       "name": "ZetMoon",
       "section": "Multi-Server",
@@ -890,16 +914,6 @@
       "starred": false,
       "hosts": [
         "https://tonkacine.watch"
-      ]
-    },
-    "primeshows": {
-      "name": "Primeshows",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.primeshows.org",
-        "https://netshows.xyz",
-        "https://youshows.org"
       ]
     },
     "moovie": {
@@ -938,6 +952,17 @@
         "https://fireflix4.pages.dev"
       ]
     },
+    "primeshows": {
+      "name": "Primeshows",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.primeshows.org",
+        "https://zencine.org",
+        "https://netshows.xyz",
+        "https://youshows.org"
+      ]
+    },
     "vidbox": {
       "name": "Vidbox",
       "section": "Multi-Server",
@@ -946,14 +971,6 @@
         "https://vidbox.vc",
         "https://cinehd.vc",
         "https://vidbox.wtf"
-      ]
-    },
-    "zencine": {
-      "name": "Zencine",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://zencine.org"
       ]
     },
     "cinewave": {
