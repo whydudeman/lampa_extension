@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-06T11:46:45.638Z",
+  "updatedAt": "2026-11-07T10:52:07.815Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -179,14 +179,6 @@
         "https://way2movies.live"
       ]
     },
-    "movienight": {
-      "name": "Movie Night",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://movienig.ht"
-      ]
-    },
     "reelix": {
       "name": "Reelix",
       "section": "Stream Aggregators",
@@ -194,6 +186,14 @@
       "hosts": [
         "https://reelix.ac",
         "https://coreflix.tv"
+      ]
+    },
+    "moanatv": {
+      "name": "moanatv.",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://lfmx.app"
       ]
     },
     "spacedom": {
@@ -204,12 +204,12 @@
         "https://spacedom.live"
       ]
     },
-    "moanatv": {
-      "name": "moanatv.",
+    "movienight": {
+      "name": "Movie Night",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://lfmx.app"
+        "https://movienig.ht"
       ]
     },
     "bingebang": {
@@ -253,6 +253,14 @@
         "https://moonflix.website"
       ]
     },
+    "cinemabz": {
+      "name": "Cinema (BZ)",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinema.army"
+      ]
+    },
     "zenox": {
       "name": "Zenox",
       "section": "Stream Aggregators",
@@ -292,14 +300,6 @@
       "starred": false,
       "hosts": [
         "https://bingr.one"
-      ]
-    },
-    "cinemabz": {
-      "name": "Cinema (BZ)",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinema.army"
       ]
     },
     "svstream": {
@@ -397,22 +397,6 @@
       "starred": false,
       "hosts": [
         "https://hivex.stream"
-      ]
-    },
-    "overlook": {
-      "name": "Overlook",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://overlook.cx"
-      ]
-    },
-    "cineapse": {
-      "name": "Cineapse",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://www.cineapse.net"
       ]
     },
     "stellarrip": {
@@ -639,15 +623,6 @@
         "https://peestream.in"
       ]
     },
-    "cno": {
-      "name": "Cno",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://cno.to",
-        "https://beta.cno.to"
-      ]
-    },
     "nepu": {
       "name": "NEPU",
       "section": "Dedicated-Server",
@@ -656,6 +631,15 @@
         "https://nepu.io",
         "https://nepu.app",
         "https://nepu.is"
+      ]
+    },
+    "cno": {
+      "name": "Cno",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://cno.to",
+        "https://beta.cno.to"
       ]
     },
     "pressplay": {
@@ -675,11 +659,11 @@
       ]
     },
     "streamingunity": {
-      "name": "Streaming Unity",
+      "name": "StreamingUnity",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://streamingunity.vip"
+        "https://streamingunity.fun"
       ]
     },
     "abibli": {
@@ -743,7 +727,7 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://onionplay.st"
+        "https://onionplay.ae"
       ]
     },
     "showbox": {
@@ -752,22 +736,6 @@
       "starred": false,
       "hosts": [
         "https://www.showbox.media"
-      ]
-    },
-    "uniquestream": {
-      "name": "UniqueStream",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://uniquestream.net"
-      ]
-    },
-    "bflix": {
-      "name": "BFLIX",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://bbflix.one"
       ]
     },
     "fsharetv": {
@@ -897,6 +865,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
+        "https://www.aurorascreen.mov",
         "https://www.aurorascreen.org"
       ]
     },
@@ -958,7 +927,6 @@
       "starred": false,
       "hosts": [
         "https://www.primeshows.org",
-        "https://zencine.org",
         "https://netshows.xyz",
         "https://youshows.org"
       ]
