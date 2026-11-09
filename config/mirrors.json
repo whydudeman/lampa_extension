@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-08T11:01:30.397Z",
+  "updatedAt": "2026-11-09T12:29:39.220Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -83,7 +83,7 @@
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
         "https://www.rivestream.app",
         "https://rivestream.ru",
@@ -130,17 +130,6 @@
         "https://cinelite.xyz"
       ]
     },
-    "ghostflix": {
-      "name": "Ghostflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://ghostflix.st",
-        "https://redflix.one",
-        "https://redflix.club",
-        "https://pantyflix.com"
-      ]
-    },
     "arrowtv": {
       "name": "ArrowTV",
       "section": "Stream Aggregators",
@@ -152,6 +141,17 @@
         "https://www.flikhub.net"
       ]
     },
+    "ghostflix": {
+      "name": "Ghostflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://ghostflix.st",
+        "https://redflix.one",
+        "https://redflix.club",
+        "https://pantyflix.com"
+      ]
+    },
     "chillflix": {
       "name": "Chillflix",
       "section": "Stream Aggregators",
@@ -160,6 +160,14 @@
         "https://chillflix.lol",
         "https://vuflix.co",
         "https://toflix.co"
+      ]
+    },
+    "spacedom": {
+      "name": "Spacedom",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://spacedom.live"
       ]
     },
     "dulo": {
@@ -194,14 +202,6 @@
       "starred": false,
       "hosts": [
         "https://lfmx.app"
-      ]
-    },
-    "spacedom": {
-      "name": "Spacedom",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://spacedom.live"
       ]
     },
     "movienight": {
@@ -243,6 +243,14 @@
       "starred": false,
       "hosts": [
         "https://watched.cx"
+      ]
+    },
+    "koddo": {
+      "name": "Koddo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://koddo.to"
       ]
     },
     "moonflix": {
@@ -302,34 +310,6 @@
         "https://bingr.one"
       ]
     },
-    "svstream": {
-      "name": "SvStream",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://svstream.cc",
-        "https://nomorflix.cc",
-        "https://diostream.cc"
-      ]
-    },
-    "cinemove": {
-      "name": "Cinemove",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinemove.cc",
-        "https://watchly.mom",
-        "https://cinex.lol"
-      ]
-    },
-    "koddo": {
-      "name": "Koddo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://koddo.to"
-      ]
-    },
     "freekz": {
       "name": "Freekz",
       "section": "Stream Aggregators",
@@ -361,9 +341,7 @@
       "starred": false,
       "hosts": [
         "https://cinemaos.live",
-        "https://cinemaos.tech",
-        "https://noirx.me",
-        "https://noirx.live"
+        "https://cinemaos.tech"
       ]
     },
     "taroflix": {
@@ -375,20 +353,20 @@
         "https://cinetaro.to"
       ]
     },
+    "vaultplayer": {
+      "name": "VaultPlayer",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://vaultplayer.co.uk"
+      ]
+    },
     "vidplay": {
       "name": "VidPlay",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://vidplay.to"
-      ]
-    },
-    "willow": {
-      "name": "Willow",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://willowmovies.com"
       ]
     },
     "hivex": {
@@ -415,28 +393,22 @@
         "https://allyoucanwatch.net"
       ]
     },
-    "3eyedraven": {
-      "name": "3eyedraven",
+    "willow": {
+      "name": "Willow",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://3eyedraven.watch"
+        "https://willowmovies.com"
       ]
     },
-    "flixtrz": {
-      "name": "Flixtrz",
+    "svstream": {
+      "name": "SvStream",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://flixtrz.com"
-      ]
-    },
-    "consumit": {
-      "name": "Consumit",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://consumit.online"
+        "https://svstream.cc",
+        "https://nomorflix.cc",
+        "https://diostream.cc"
       ]
     },
     "cineruv": {
@@ -447,12 +419,22 @@
         "https://cineruv.website"
       ]
     },
-    "vaultplayer": {
-      "name": "VaultPlayer",
+    "3eyedraven": {
+      "name": "3eyedraven",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://vaultplayer.co.uk"
+        "https://3eyedraven.watch"
+      ]
+    },
+    "cinemove": {
+      "name": "Cinemove",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinemove.cc",
+        "https://watchly.mom",
+        "https://cinex.lol"
       ]
     },
     "mapple": {
@@ -664,6 +646,14 @@
       "starred": false,
       "hosts": [
         "https://streamingunity.fun"
+      ]
+    },
+    "flixtrz": {
+      "name": "Flixtrz",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://flixtrz.com"
       ]
     },
     "abibli": {
@@ -987,6 +977,14 @@
       "starred": false,
       "hosts": [
         "https://bingeflix.tv"
+      ]
+    },
+    "consumit": {
+      "name": "Consumit",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://consumit.online"
       ]
     },
     "heartive": {
