@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-09T12:29:39.220Z",
+  "updatedAt": "2026-11-10T12:04:07.864Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -344,6 +344,14 @@
         "https://cinemaos.tech"
       ]
     },
+    "4movie": {
+      "name": "4Movie",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://4movie.in"
+      ]
+    },
     "taroflix": {
       "name": "TaroFlix",
       "section": "Stream Aggregators",
@@ -385,12 +393,12 @@
         "https://stellar.rip"
       ]
     },
-    "allyoucanwatch": {
-      "name": "All You Can Watch",
+    "sleepy": {
+      "name": "Sleepy",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://allyoucanwatch.net"
+        "https://sleepy.lat"
       ]
     },
     "willow": {
@@ -471,14 +479,6 @@
         "https://novahd.cc"
       ]
     },
-    "youplex": {
-      "name": "Youplex",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://youplex.site"
-      ]
-    },
     "zoryvax": {
       "name": "Zoryva X",
       "section": "Stream Aggregators",
@@ -496,6 +496,22 @@
         "https://cinelove.live"
       ]
     },
+    "kofi": {
+      "name": "Kofi",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://kofi.mov"
+      ]
+    },
+    "nxsha": {
+      "name": "Nxsha",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://web.nxsha.app"
+      ]
+    },
     "screenscape": {
       "name": "Screenscape",
       "section": "Stream Aggregators",
@@ -504,12 +520,12 @@
         "https://screenscape.me"
       ]
     },
-    "kofi": {
-      "name": "Kofi",
+    "youplex": {
+      "name": "Youplex",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://kofi.mov"
+        "https://youplex.site"
       ]
     },
     "framextv": {
@@ -526,14 +542,6 @@
       "starred": false,
       "hosts": [
         "https://allaboutmovies.pages.dev"
-      ]
-    },
-    "nxsha": {
-      "name": "Nxsha",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://web.nxsha.app"
       ]
     },
     "cinecat": {
@@ -597,14 +605,6 @@
         "https://fmfau.com"
       ]
     },
-    "peestream": {
-      "name": "peestream",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://peestream.in"
-      ]
-    },
     "nepu": {
       "name": "NEPU",
       "section": "Dedicated-Server",
@@ -654,6 +654,14 @@
       "starred": false,
       "hosts": [
         "https://flixtrz.com"
+      ]
+    },
+    "cybermovies": {
+      "name": "CyberMovies",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://cybermovies.ru"
       ]
     },
     "abibli": {
@@ -850,15 +858,6 @@
         "https://anicine.sbs"
       ]
     },
-    "aurorascreen": {
-      "name": "AuroraScreen",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.aurorascreen.mov",
-        "https://www.aurorascreen.org"
-      ]
-    },
     "zetmoon": {
       "name": "ZetMoon",
       "section": "Multi-Server",
@@ -875,15 +874,6 @@
         "https://tonkacine.watch"
       ]
     },
-    "moovie": {
-      "name": "Moovie",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://moovie.fun",
-        "https://streamaggregator.in"
-      ]
-    },
     "anixtv": {
       "name": "Anixtv",
       "section": "Multi-Server",
@@ -894,6 +884,14 @@
         "https://anixtv.in"
       ]
     },
+    "cinewave": {
+      "name": "CineWave",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://watch.cinewave.qzz.io"
+      ]
+    },
     "hydrahd": {
       "name": "HydraHD",
       "section": "Multi-Server",
@@ -901,14 +899,6 @@
       "hosts": [
         "https://hydrahd.gd",
         "https://hydrahd.com"
-      ]
-    },
-    "fireflix": {
-      "name": "Fireflix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://fireflix4.pages.dev"
       ]
     },
     "primeshows": {
@@ -921,6 +911,15 @@
         "https://youshows.org"
       ]
     },
+    "aurorascreen": {
+      "name": "AuroraScreen",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.aurorascreen.mov",
+        "https://www.aurorascreen.org"
+      ]
+    },
     "vidbox": {
       "name": "Vidbox",
       "section": "Multi-Server",
@@ -931,14 +930,6 @@
         "https://vidbox.wtf"
       ]
     },
-    "cinewave": {
-      "name": "CineWave",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://watch.cinewave.qzz.io"
-      ]
-    },
     "youflex": {
       "name": "Youflex",
       "section": "Multi-Server",
@@ -947,12 +938,28 @@
         "https://youflex.top"
       ]
     },
-    "kaitovault": {
-      "name": "KaitoVault",
+    "candlestream": {
+      "name": "CandleStream",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://kaitotv.com"
+        "https://candlestream.xyz"
+      ]
+    },
+    "fireflix": {
+      "name": "Fireflix",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://fireflix4.pages.dev"
+      ]
+    },
+    "heartive": {
+      "name": "Heartive",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://heartiveplaystv.pages.dev"
       ]
     },
     "flyflix": {
@@ -961,14 +968,6 @@
       "starred": false,
       "hosts": [
         "https://flyflix.cc"
-      ]
-    },
-    "candlestream": {
-      "name": "CandleStream",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://candlestream.xyz"
       ]
     },
     "bingeflix": {
@@ -985,14 +984,6 @@
       "starred": false,
       "hosts": [
         "https://consumit.online"
-      ]
-    },
-    "heartive": {
-      "name": "Heartive",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://heartiveplaystv.pages.dev"
       ]
     },
     "flixvo": {
@@ -1029,13 +1020,20 @@
         "https://streamex.ws"
       ]
     },
-    "watchseries": {
-      "name": "WatchSeries",
+    "snowstream": {
+      "name": "Snowstream",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://watchseries.cool",
-        "https://watchseries.bar"
+        "https://snowstream.vercel.app"
+      ]
+    },
+    "cinenest": {
+      "name": "CineNest",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://cine-nest-nine.vercel.app"
       ]
     },
     "pawflix": {
@@ -1054,14 +1052,6 @@
         "https://cinebytv.com"
       ]
     },
-    "meowly": {
-      "name": "Meowly",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://meowly.qzz.io"
-      ]
-    },
     "moviepire": {
       "name": "Moviepire",
       "section": "Multi-Server",
@@ -1069,6 +1059,39 @@
       "hosts": [
         "https://moviepire.ru",
         "https://phland.org"
+      ]
+    },
+    "milkbox": {
+      "name": "MilkBox",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://milkbox.fyi",
+        "https://milkbox.zapto.org"
+      ]
+    },
+    "fishystream": {
+      "name": "FishyStream",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://fishystream-app.pages.dev"
+      ]
+    },
+    "duafile": {
+      "name": "DuaFile",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://download.duafile.com"
+      ]
+    },
+    "meowly": {
+      "name": "Meowly",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://meowly.qzz.io"
       ]
     },
     "tvids": {
@@ -1090,54 +1113,6 @@
         "https://www.moviestowatch.top"
       ]
     },
-    "milkbox": {
-      "name": "MilkBox",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://milkbox.zapto.org"
-      ]
-    },
-    "zerostream": {
-      "name": "Zerostream",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://zerostream.alwaysdata.net"
-      ]
-    },
-    "fishystream": {
-      "name": "FishyStream",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://fishystream-app.pages.dev"
-      ]
-    },
-    "snowstream": {
-      "name": "Snowstream",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://snowstream.vercel.app"
-      ]
-    },
-    "cinenest": {
-      "name": "CineNest",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://cine-nest-nine.vercel.app"
-      ]
-    },
-    "duafile": {
-      "name": "DuaFile",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://download.duafile.com"
-      ]
-    },
     "rabbitmeow": {
       "name": "RabbitMeow",
       "section": "Multi-Server",
@@ -1146,20 +1121,20 @@
         "https://rabbitmeow.online"
       ]
     },
-    "fluxfusion": {
-      "name": "FluxFusion",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://flixfusion.cyou"
-      ]
-    },
     "warflix": {
       "name": "Warflix",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://warflix.im"
+      ]
+    },
+    "flixfusion": {
+      "name": "FlixFusion",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://flixfusion.cyou"
       ]
     },
     "streamingcse": {
