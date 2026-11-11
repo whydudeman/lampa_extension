@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-10T12:04:07.864Z",
+  "updatedAt": "2026-11-11T11:40:06.653Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -41,7 +41,8 @@
       "starred": true,
       "hosts": [
         "https://7movies.ac",
-        "https://7movies.ws"
+        "https://7movies.ws",
+        "https://7shows.st"
       ]
     },
     "atlantic": {
@@ -148,18 +149,7 @@
       "hosts": [
         "https://ghostflix.st",
         "https://redflix.one",
-        "https://redflix.club",
-        "https://pantyflix.com"
-      ]
-    },
-    "chillflix": {
-      "name": "Chillflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://chillflix.lol",
-        "https://vuflix.co",
-        "https://toflix.co"
+        "https://redflix.club"
       ]
     },
     "spacedom": {
@@ -187,6 +177,14 @@
         "https://way2movies.live"
       ]
     },
+    "movienight": {
+      "name": "Movie Night",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://movienig.ht"
+      ]
+    },
     "reelix": {
       "name": "Reelix",
       "section": "Stream Aggregators",
@@ -202,14 +200,6 @@
       "starred": false,
       "hosts": [
         "https://lfmx.app"
-      ]
-    },
-    "movienight": {
-      "name": "Movie Night",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://movienig.ht"
       ]
     },
     "bingebang": {
@@ -237,12 +227,23 @@
         "https://moviebite.org"
       ]
     },
-    "watched": {
-      "name": "watched",
+    "mzone": {
+      "name": "M-Zone",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://watched.cx"
+        "https://m-zone.cc",
+        "https://m-zone.org"
+      ]
+    },
+    "chillflix": {
+      "name": "Chillflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://chillflix.lol",
+        "https://vuflix.co",
+        "https://toflix.co"
       ]
     },
     "koddo": {
@@ -293,21 +294,20 @@
         "https://thugtv.online"
       ]
     },
-    "mzone": {
-      "name": "M-Zone",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://m-zone.cc",
-        "https://m-zone.org"
-      ]
-    },
     "bingr": {
       "name": "Bingr",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://bingr.one"
+      ]
+    },
+    "watched": {
+      "name": "watched",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://watched.cx"
       ]
     },
     "freekz": {
@@ -611,8 +611,8 @@
       "starred": false,
       "hosts": [
         "https://nepu.io",
-        "https://nepu.app",
-        "https://nepu.is"
+        "https://nepu.is",
+        "https://nepu.app"
       ]
     },
     "cno": {
@@ -629,7 +629,15 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://pressplayx.to"
+        "https://pressplayz.top"
+      ]
+    },
+    "arc018": {
+      "name": "arc018",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://arc018.stream"
       ]
     },
     "q62": {
@@ -648,38 +656,6 @@
         "https://streamingunity.fun"
       ]
     },
-    "flixtrz": {
-      "name": "Flixtrz",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://flixtrz.com"
-      ]
-    },
-    "cybermovies": {
-      "name": "CyberMovies",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://cybermovies.ru"
-      ]
-    },
-    "abibli": {
-      "name": "Abibli",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://abibli.com"
-      ]
-    },
-    "soapgo": {
-      "name": "SoapGo",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://soapgo.to"
-      ]
-    },
     "cinemacity": {
       "name": "CinemaCity",
       "section": "Dedicated-Server",
@@ -688,12 +664,28 @@
         "https://cinemacity.cc"
       ]
     },
-    "arc018": {
-      "name": "arc018",
+    "flixtrz": {
+      "name": "Flixtrz",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://arc018.stream"
+        "https://flixtrz.com"
+      ]
+    },
+    "showbox": {
+      "name": "ShowBox",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.showbox.media"
+      ]
+    },
+    "abibli": {
+      "name": "Abibli",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://abibli.com"
       ]
     },
     "ridomovies": {
@@ -712,14 +704,6 @@
         "https://filmo.to"
       ]
     },
-    "azmovies": {
-      "name": "AZMovies",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://azmovies.to"
-      ]
-    },
     "onionplay": {
       "name": "OnionPlay",
       "section": "Dedicated-Server",
@@ -728,20 +712,20 @@
         "https://onionplay.ae"
       ]
     },
-    "showbox": {
-      "name": "ShowBox",
+    "azmovies": {
+      "name": "AZMovies",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://www.showbox.media"
+        "https://azmovies.to"
       ]
     },
-    "fsharetv": {
-      "name": "FshareTV",
+    "m4uhd": {
+      "name": "M4uHD",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://fsharetv.co"
+        "https://m4uhd.vip"
       ]
     },
     "movienestbd": {
@@ -752,12 +736,12 @@
         "https://movienestbd.best"
       ]
     },
-    "m4uhd": {
-      "name": "M4uHD",
+    "fsharetv": {
+      "name": "FshareTV",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://m4uhd.vip"
+        "https://fsharetv.co"
       ]
     },
     "levidia": {
@@ -884,6 +868,16 @@
         "https://anixtv.in"
       ]
     },
+    "primeshows": {
+      "name": "Primeshows",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.primeshows.org",
+        "https://netshows.xyz",
+        "https://youshows.org"
+      ]
+    },
     "cinewave": {
       "name": "CineWave",
       "section": "Multi-Server",
@@ -899,16 +893,6 @@
       "hosts": [
         "https://hydrahd.gd",
         "https://hydrahd.com"
-      ]
-    },
-    "primeshows": {
-      "name": "Primeshows",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.primeshows.org",
-        "https://netshows.xyz",
-        "https://youshows.org"
       ]
     },
     "aurorascreen": {
@@ -1034,6 +1018,15 @@
       "starred": false,
       "hosts": [
         "https://cine-nest-nine.vercel.app"
+      ]
+    },
+    "watchseries": {
+      "name": "WatchSeries",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://watchseries.cool",
+        "https://watchseries.bar"
       ]
     },
     "pawflix": {
