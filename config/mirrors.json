@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-11T11:40:06.653Z",
+  "updatedAt": "2026-11-12T12:08:54.679Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -61,8 +61,7 @@
       "hosts": [
         "https://shuttletv.su",
         "https://shuttletv.pk",
-        "https://shuttletv.me",
-        "https://shuttletv.cr"
+        "https://shuttletv.me"
       ]
     },
     "flystream": {
@@ -90,7 +89,6 @@
         "https://rivestream.ru",
         "https://rivestream.win",
         "https://watch.corsflix.net",
-        "https://corsflix.net",
         "https://watch.corsflix.dpdns.org"
       ]
     },
@@ -168,6 +166,16 @@
         "https://dulo.mov"
       ]
     },
+    "chillflix": {
+      "name": "Chillflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://chillflix.lol",
+        "https://toflix.co",
+        "https://vuflix.co"
+      ]
+    },
     "way2movies": {
       "name": "Way2Movies",
       "section": "Stream Aggregators",
@@ -234,16 +242,6 @@
       "hosts": [
         "https://m-zone.cc",
         "https://m-zone.org"
-      ]
-    },
-    "chillflix": {
-      "name": "Chillflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://chillflix.lol",
-        "https://vuflix.co",
-        "https://toflix.co"
       ]
     },
     "koddo": {
@@ -344,6 +342,14 @@
         "https://cinemaos.tech"
       ]
     },
+    "stellar": {
+      "name": "Stellar",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://stellar.rip"
+      ]
+    },
     "4movie": {
       "name": "4Movie",
       "section": "Stream Aggregators",
@@ -385,14 +391,6 @@
         "https://hivex.stream"
       ]
     },
-    "stellarrip": {
-      "name": "Stellar (rip)",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://stellar.rip"
-      ]
-    },
     "sleepy": {
       "name": "Sleepy",
       "section": "Stream Aggregators",
@@ -407,6 +405,14 @@
       "starred": false,
       "hosts": [
         "https://willowmovies.com"
+      ]
+    },
+    "nxsha": {
+      "name": "Nxsha",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://web.nxsha.app"
       ]
     },
     "svstream": {
@@ -502,14 +508,6 @@
       "starred": false,
       "hosts": [
         "https://kofi.mov"
-      ]
-    },
-    "nxsha": {
-      "name": "Nxsha",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://web.nxsha.app"
       ]
     },
     "screenscape": {
@@ -704,14 +702,6 @@
         "https://filmo.to"
       ]
     },
-    "onionplay": {
-      "name": "OnionPlay",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://onionplay.ae"
-      ]
-    },
     "azmovies": {
       "name": "AZMovies",
       "section": "Dedicated-Server",
@@ -726,14 +716,6 @@
       "starred": false,
       "hosts": [
         "https://m4uhd.vip"
-      ]
-    },
-    "movienestbd": {
-      "name": "MovieNestBD",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://movienestbd.best"
       ]
     },
     "fsharetv": {
@@ -962,6 +944,15 @@
         "https://bingeflix.tv"
       ]
     },
+    "watchseries": {
+      "name": "WatchSeries",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://watchseries.cool",
+        "https://watchseries.bar"
+      ]
+    },
     "consumit": {
       "name": "Consumit",
       "section": "Multi-Server",
@@ -1020,13 +1011,12 @@
         "https://cine-nest-nine.vercel.app"
       ]
     },
-    "watchseries": {
-      "name": "WatchSeries",
+    "onionplay": {
+      "name": "OnionPlay",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://watchseries.cool",
-        "https://watchseries.bar"
+        "https://onionplay.ae"
       ]
     },
     "pawflix": {
@@ -1059,8 +1049,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://milkbox.fyi",
-        "https://milkbox.zapto.org"
+        "https://milkbox.fyi"
       ]
     },
     "fishystream": {
