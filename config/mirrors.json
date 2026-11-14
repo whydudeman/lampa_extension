@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-13T11:50:09.491Z",
+  "updatedAt": "2026-11-14T11:11:16.622Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -59,7 +59,6 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://shuttletv.su",
         "https://shuttletv.pk",
         "https://shuttletv.me"
       ]
@@ -129,6 +128,14 @@
         "https://cinelite.xyz"
       ]
     },
+    "dulo": {
+      "name": "dulo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://dulo.mov"
+      ]
+    },
     "arrowtv": {
       "name": "ArrowTV",
       "section": "Stream Aggregators",
@@ -158,14 +165,6 @@
         "https://spacedom.live"
       ]
     },
-    "dulo": {
-      "name": "dulo",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://dulo.mov"
-      ]
-    },
     "chillflix": {
       "name": "Chillflix",
       "section": "Stream Aggregators",
@@ -185,6 +184,14 @@
         "https://way2movies.live"
       ]
     },
+    "moanatv": {
+      "name": "moanatv.",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://lfmx.app"
+      ]
+    },
     "movienight": {
       "name": "Movie Night",
       "section": "Stream Aggregators",
@@ -200,14 +207,6 @@
       "hosts": [
         "https://reelix.ac",
         "https://coreflix.tv"
-      ]
-    },
-    "moanatv": {
-      "name": "moanatv.",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://lfmx.app"
       ]
     },
     "bingebang": {
@@ -297,7 +296,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://bingr.one"
+        "https://bingr.st"
       ]
     },
     "watched": {
@@ -339,7 +338,9 @@
       "starred": false,
       "hosts": [
         "https://cinemaos.live",
-        "https://cinemaos.tech"
+        "https://cinemaos.tech",
+        "https://cinemoas.me",
+        "https://cinemaos.in"
       ]
     },
     "stellar": {
@@ -447,7 +448,6 @@
       "starred": false,
       "hosts": [
         "https://cinemove.cc",
-        "https://watchly.mom",
         "https://cinex.lol"
       ]
     },
@@ -585,6 +585,14 @@
         "https://cinefork.net"
       ]
     },
+    "fmfau": {
+      "name": "⁠FMFAU",
+      "section": "P-Stream Forks",
+      "starred": false,
+      "hosts": [
+        "https://fmfau.com"
+      ]
+    },
     "streamwatch": {
       "name": "StreamWatch",
       "section": "P-Stream Forks",
@@ -593,14 +601,6 @@
         "https://streamwatch.online",
         "https://pstream.site",
         "https://streamwatch.pages.dev"
-      ]
-    },
-    "fmfau": {
-      "name": "⁠FMFAU",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://fmfau.com"
       ]
     },
     "nepu": {
@@ -622,6 +622,14 @@
         "https://beta.cno.to"
       ]
     },
+    "q62": {
+      "name": "Q62",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://q62flix.ws"
+      ]
+    },
     "pressplay": {
       "name": "PressPlay",
       "section": "Dedicated-Server",
@@ -638,20 +646,20 @@
         "https://arc018.stream"
       ]
     },
-    "q62": {
-      "name": "Q62",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://q62flix.ws"
-      ]
-    },
     "streamingunity": {
       "name": "StreamingUnity",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
         "https://streamingunity.fun"
+      ]
+    },
+    "showbox": {
+      "name": "ShowBox",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.showbox.media"
       ]
     },
     "cinemacity": {
@@ -668,14 +676,6 @@
       "starred": false,
       "hosts": [
         "https://flixtrz.com"
-      ]
-    },
-    "showbox": {
-      "name": "ShowBox",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.showbox.media"
       ]
     },
     "abibli": {
@@ -700,6 +700,22 @@
       "starred": false,
       "hosts": [
         "https://filmo.to"
+      ]
+    },
+    "onionplay": {
+      "name": "OnionPlay",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://onionplay.ae"
+      ]
+    },
+    "soapgo": {
+      "name": "SoapGo",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://soapgo.to"
       ]
     },
     "azmovies": {
@@ -824,6 +840,16 @@
         "https://anicine.sbs"
       ]
     },
+    "primeshows": {
+      "name": "Primeshows",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://www.primeshows.org",
+        "https://netshows.xyz",
+        "https://youshows.org"
+      ]
+    },
     "zetmoon": {
       "name": "ZetMoon",
       "section": "Multi-Server",
@@ -848,16 +874,6 @@
         "https://anixx.fun",
         "https://anixtv.us.cc",
         "https://anixtv.in"
-      ]
-    },
-    "primeshows": {
-      "name": "Primeshows",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://www.primeshows.org",
-        "https://netshows.xyz",
-        "https://youshows.org"
       ]
     },
     "cinewave": {
@@ -891,9 +907,8 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://vidbox.vc",
-        "https://cinehd.vc",
-        "https://vidbox.wtf"
+        "https://vidbox.wtf",
+        "https://cinehd.vc"
       ]
     },
     "youflex": {
@@ -953,14 +968,6 @@
         "https://watchseries.bar"
       ]
     },
-    "consumit": {
-      "name": "Consumit",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://consumit.online"
-      ]
-    },
     "flixvo": {
       "name": "Flixvo",
       "section": "Multi-Server",
@@ -1009,14 +1016,6 @@
       "starred": false,
       "hosts": [
         "https://cine-nest-nine.vercel.app"
-      ]
-    },
-    "onionplay": {
-      "name": "OnionPlay",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://onionplay.ae"
       ]
     },
     "pawflix": {
@@ -1095,12 +1094,12 @@
         "https://www.moviestowatch.top"
       ]
     },
-    "rabbitmeow": {
-      "name": "RabbitMeow",
+    "ev01": {
+      "name": "Ev01",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://rabbitmeow.online"
+        "https://ev01.ws"
       ]
     },
     "warflix": {
