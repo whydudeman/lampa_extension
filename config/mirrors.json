@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-15T11:44:37.429Z",
+  "updatedAt": "2026-11-16T12:24:29.673Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -45,6 +45,14 @@
         "https://7shows.st"
       ]
     },
+    "cinecat": {
+      "name": "Cinecat",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://cinecat.eu"
+      ]
+    },
     "atlantic": {
       "name": "Atlantic",
       "section": "Stream Aggregators",
@@ -79,27 +87,37 @@
         "https://vivarium.su"
       ]
     },
+    "arrowtv": {
+      "name": "ArrowTV",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://arrowtv.net",
+        "https://neonflix.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
+      ]
+    },
+    "sweetfox": {
+      "name": "SweetFox",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://sweetfox.app",
+        "http://sweetfox.st",
+        "https://67movies.st"
+      ]
+    },
     "rive": {
       "name": "Rive",
       "section": "Stream Aggregators",
-      "starred": true,
+      "starred": false,
       "hosts": [
         "https://www.rivestream.app",
         "https://rivestream.ru",
         "https://rivestream.win",
         "https://watch.corsflix.net",
         "https://watch.corsflix.dpdns.org"
-      ]
-    },
-    "flixer": {
-      "name": "Flixer",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://flixer.gd",
-        "https://flixer.su",
-        "https://flixer.cx",
-        "https://hexa.su"
       ]
     },
     "meowtv": {
@@ -111,13 +129,15 @@
         "https://flickystream.mov"
       ]
     },
-    "sweetfox": {
-      "name": "SweetFox",
+    "flixer": {
+      "name": "Flixer",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://sweetfox.app",
-        "https://67movies.st"
+        "https://flixer.gd",
+        "https://flixer.su",
+        "https://flixer.cx",
+        "https://hexa.su"
       ]
     },
     "cinelite": {
@@ -134,17 +154,6 @@
       "starred": false,
       "hosts": [
         "https://dulo.mov"
-      ]
-    },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://neonflix.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
       ]
     },
     "ghostflix": {
@@ -192,14 +201,6 @@
         "https://lfmx.app"
       ]
     },
-    "movienight": {
-      "name": "Movie Night",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://movienig.ht"
-      ]
-    },
     "reelix": {
       "name": "Reelix",
       "section": "Stream Aggregators",
@@ -226,14 +227,6 @@
         "https://afterdusk.app"
       ]
     },
-    "moviebite": {
-      "name": "MovieBite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://moviebite.org"
-      ]
-    },
     "mzone": {
       "name": "M-Zone",
       "section": "Stream Aggregators",
@@ -243,12 +236,28 @@
         "https://m-zone.org"
       ]
     },
+    "movienight": {
+      "name": "Movie Night",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://movienig.ht"
+      ]
+    },
     "koddo": {
       "name": "Koddo",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
         "https://koddo.to"
+      ]
+    },
+    "moviebite": {
+      "name": "MovieBite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://moviebite.org"
       ]
     },
     "moonflix": {
@@ -540,14 +549,6 @@
       "starred": false,
       "hosts": [
         "https://allaboutmovies.pages.dev"
-      ]
-    },
-    "cinecat": {
-      "name": "Cinecat",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://cinecat.eu"
       ]
     },
     "aether": {
