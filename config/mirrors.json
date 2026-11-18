@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-17T12:44:53.820Z",
+  "updatedAt": "2026-11-18T12:37:35.310Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,14 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "cinejoy": {
-      "name": "Cinejoy",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://cinejoy.pk"
       ]
     },
     "7movies": {
@@ -86,7 +78,7 @@
       "starred": true,
       "hosts": [
         "https://arrowtv.net",
-        "https://neonflix.st",
+        "https://arrowtv.st",
         "https://www.cinezo.st",
         "https://www.flikhub.net"
       ]
@@ -99,16 +91,12 @@
         "https://www.movy.sx"
       ]
     },
-    "rive": {
-      "name": "Rive",
+    "cinejoy": {
+      "name": "Cinejoy",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://www.rivestream.app",
-        "https://rivestream.ru",
-        "https://rivestream.win",
-        "https://watch.corsflix.net",
-        "https://watch.corsflix.dpdns.org"
+        "https://cinejoy.pk"
       ]
     },
     "meowtv": {
@@ -211,6 +199,18 @@
         "https://67movies.st"
       ]
     },
+    "rive": {
+      "name": "Rive",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://www.rivestream.app",
+        "https://rivestream.ru",
+        "https://rivestream.win",
+        "https://watch.corsflix.net",
+        "https://watch.corsflix.dpdns.org"
+      ]
+    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
@@ -226,6 +226,14 @@
       "hosts": [
         "https://lightflix.app",
         "https://afterdusk.app"
+      ]
+    },
+    "bingr": {
+      "name": "Bingr",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://bingr.st"
       ]
     },
     "mzone": {
@@ -306,15 +314,8 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://thugtv.online"
-      ]
-    },
-    "bingr": {
-      "name": "Bingr",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://bingr.st"
+        "https://thugtv.online",
+        "https://thugtv.st"
       ]
     },
     "freekz": {
@@ -350,6 +351,14 @@
         "https://greyboxtv.pages.dev"
       ]
     },
+    "bowd": {
+      "name": "Bowd",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://bowdtv.com"
+      ]
+    },
     "cinemaos": {
       "name": "CinemaOS",
       "section": "Stream Aggregators",
@@ -359,6 +368,14 @@
         "https://cinemaos.tech",
         "https://cinemoas.me",
         "https://cinemaos.in"
+      ]
+    },
+    "vumeto": {
+      "name": "Vumeto",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://vumeto.live"
       ]
     },
     "stellar": {
@@ -704,6 +721,14 @@
         "https://filmo.to"
       ]
     },
+    "play4u": {
+      "name": "Play4u",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://play4u.org"
+      ]
+    },
     "onionplay": {
       "name": "OnionPlay",
       "section": "Dedicated-Server",
@@ -935,6 +960,14 @@
       "starred": false,
       "hosts": [
         "https://fireflix4.pages.dev"
+      ]
+    },
+    "comvie": {
+      "name": "Comvie",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://comvie.lol"
       ]
     },
     "heartive": {
