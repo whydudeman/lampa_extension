@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-18T12:37:35.310Z",
+  "updatedAt": "2026-11-19T12:28:09.293Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,16 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "7movies": {
-      "name": "7Movies",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://7movies.ac",
-        "https://7movies.ws",
-        "https://7shows.st"
       ]
     },
     "cinecat": {
@@ -99,6 +89,16 @@
         "https://cinejoy.pk"
       ]
     },
+    "7movies": {
+      "name": "7Movies",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://7movies.ac",
+        "https://7movies.ws",
+        "https://7shows.st"
+      ]
+    },
     "meowtv": {
       "name": "MeowTV",
       "section": "Stream Aggregators",
@@ -133,8 +133,8 @@
       "starred": false,
       "hosts": [
         "https://ghostflix.st",
-        "https://redflix.one",
-        "https://redflix.club"
+        "https://redflix.st",
+        "https://redflix.ac"
       ]
     },
     "dulo": {
@@ -737,14 +737,6 @@
         "https://onionplay.ae"
       ]
     },
-    "soapgo": {
-      "name": "SoapGo",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://soapgo.to"
-      ]
-    },
     "azmovies": {
       "name": "AZMovies",
       "section": "Dedicated-Server",
@@ -893,14 +885,12 @@
         "https://tonkacine.watch"
       ]
     },
-    "anixtv": {
-      "name": "Anixtv",
+    "fireflix": {
+      "name": "Fireflix",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://anixx.fun",
-        "https://anixtv.us.cc",
-        "https://anixtv.in"
+        "https://fireflix4.pages.dev"
       ]
     },
     "cinewave": {
@@ -954,20 +944,20 @@
         "https://candlestream.xyz"
       ]
     },
-    "fireflix": {
-      "name": "Fireflix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://fireflix4.pages.dev"
-      ]
-    },
     "comvie": {
       "name": "Comvie",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://comvie.lol"
+      ]
+    },
+    "hdtoday": {
+      "name": "HDToday",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://hdtoday.com.tr"
       ]
     },
     "heartive": {
@@ -999,8 +989,8 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://watchseries.cool",
-        "https://watchseries.bar"
+        "https://watchseries.bar",
+        "https://watchseries.show"
       ]
     },
     "flixvo": {
@@ -1166,7 +1156,8 @@
       "section": "Free w/ Ads",
       "starred": false,
       "hosts": [
-        "https://www.justwatch.com"
+        "https://www.justwatch.com",
+        "https://www.galaxymovies.app"
       ]
     },
     "tubi": {
