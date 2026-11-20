@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-19T12:28:09.293Z",
+  "updatedAt": "2026-11-20T12:28:49.133Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,15 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "cinecat": {
-      "name": "Cinecat",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://cinecat.eu",
-        "https://beta.cinecat.eu"
       ]
     },
     "popcornmovies": {
@@ -99,13 +90,13 @@
         "https://7shows.st"
       ]
     },
-    "meowtv": {
-      "name": "MeowTV",
+    "cinecat": {
+      "name": "Cinecat",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://meowtv.ru",
-        "https://flickystream.mov"
+        "https://cinecat.eu",
+        "https://beta.cinecat.eu"
       ]
     },
     "flixer": {
@@ -209,6 +200,15 @@
         "https://rivestream.win",
         "https://watch.corsflix.net",
         "https://watch.corsflix.dpdns.org"
+      ]
+    },
+    "meowtv": {
+      "name": "MeowTV",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://meowtv.ru",
+        "https://flickystream.mov"
       ]
     },
     "bingebang": {
@@ -348,7 +348,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://greyboxtv.pages.dev"
+        "https://greyboxtv.duckdns.org"
       ]
     },
     "bowd": {
@@ -392,6 +392,14 @@
       "starred": false,
       "hosts": [
         "https://4movie.in"
+      ]
+    },
+    "driftly": {
+      "name": "driftly",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://driftly.live"
       ]
     },
     "taroflix": {
@@ -710,7 +718,7 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://ridomovies.is"
+        "https://ridomovie.to"
       ]
     },
     "filmo": {
@@ -839,6 +847,14 @@
         "https://lookmovie4.to",
         "https://lookmovie5.to",
         "https://lookmovie6.to"
+      ]
+    },
+    "fusionmovies": {
+      "name": "Fusion Movies",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://www4.fusionmovies.to"
       ]
     },
     "1shows": {
