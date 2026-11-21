@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-20T12:28:49.133Z",
+  "updatedAt": "2026-11-21T12:04:08.210Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,15 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "popcornmovies": {
-      "name": "PopcornMovies",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://popcornmovies.st",
-        "https://bingebox.ac"
       ]
     },
     "atlantic": {
@@ -50,7 +41,7 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://vivarium.su"
+        "https://vivarium.st"
       ]
     },
     "arrowtv": {
@@ -99,15 +90,13 @@
         "https://beta.cinecat.eu"
       ]
     },
-    "flixer": {
-      "name": "Flixer",
+    "popcornmovies": {
+      "name": "PopcornMovies",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://flixer.gd",
-        "https://flixer.su",
-        "https://flixer.cx",
-        "https://hexa.su"
+        "https://popcornmovies.st",
+        "https://bingebox.ac"
       ]
     },
     "cinelite": {
@@ -209,6 +198,17 @@
       "hosts": [
         "https://meowtv.ru",
         "https://flickystream.mov"
+      ]
+    },
+    "flixer": {
+      "name": "Flixer",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://flixer.gd",
+        "https://flixer.su",
+        "https://flixer.cx",
+        "https://hexa.su"
       ]
     },
     "bingebang": {
@@ -366,7 +366,7 @@
       "hosts": [
         "https://cinemaos.live",
         "https://cinemaos.tech",
-        "https://cinemoas.me",
+        "https://cinemaos.me",
         "https://cinemaos.in"
       ]
     },
@@ -630,6 +630,14 @@
         "https://streamwatch.pages.dev"
       ]
     },
+    "q62": {
+      "name": "Q62",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://q62flix.ws"
+      ]
+    },
     "nepu": {
       "name": "NEPU",
       "section": "Dedicated-Server",
@@ -647,14 +655,6 @@
       "hosts": [
         "https://cno.to",
         "https://beta.cno.to"
-      ]
-    },
-    "q62": {
-      "name": "Q62",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://q62flix.ws"
       ]
     },
     "pressplay": {
@@ -687,6 +687,14 @@
       "starred": false,
       "hosts": [
         "https://www.showbox.media"
+      ]
+    },
+    "lemovie": {
+      "name": "LE MOVIE",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://lemovie.site"
       ]
     },
     "cinemacity": {
