@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-21T12:04:08.210Z",
+  "updatedAt": "2026-11-22T12:15:46.308Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,15 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "atlantic": {
-      "name": "Atlantic",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://atlantic.bz",
-        "https://fprime.at"
       ]
     },
     "shuttletv": {
@@ -99,12 +90,13 @@
         "https://bingebox.ac"
       ]
     },
-    "cinelite": {
-      "name": "CineLite",
+    "atlantic": {
+      "name": "Atlantic",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://cinelite.xyz"
+        "https://atlantic.bz",
+        "https://fprime.at"
       ]
     },
     "ghostflix": {
@@ -211,6 +203,14 @@
         "https://hexa.su"
       ]
     },
+    "cinelite": {
+      "name": "CineLite",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinelite.xyz"
+      ]
+    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
@@ -314,7 +314,6 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://thugtv.online",
         "https://thugtv.st"
       ]
     },
@@ -654,7 +653,8 @@
       "starred": false,
       "hosts": [
         "https://cno.to",
-        "https://beta.cno.to"
+        "https://beta.cno.to",
+        "https://fli.cx"
       ]
     },
     "pressplay": {
@@ -663,6 +663,14 @@
       "starred": false,
       "hosts": [
         "https://pressplayz.top"
+      ]
+    },
+    "lemovie": {
+      "name": "LE MOVIE",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://lemovie.site"
       ]
     },
     "arc018": {
@@ -687,14 +695,6 @@
       "starred": false,
       "hosts": [
         "https://www.showbox.media"
-      ]
-    },
-    "lemovie": {
-      "name": "LE MOVIE",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://lemovie.site"
       ]
     },
     "cinemacity": {
