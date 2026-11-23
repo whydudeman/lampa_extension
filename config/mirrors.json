@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-22T12:15:46.308Z",
+  "updatedAt": "2026-11-23T13:59:37.710Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,15 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "shuttletv": {
-      "name": "ShuttleTV",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://shuttletv.pk",
-        "https://shuttletv.me"
       ]
     },
     "flystream": {
@@ -67,8 +58,8 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://7movies.ac",
         "https://7movies.ws",
+        "https://7movies.ac",
         "https://7shows.st"
       ]
     },
@@ -99,14 +90,23 @@
         "https://fprime.at"
       ]
     },
-    "ghostflix": {
-      "name": "Ghostflix",
+    "shuttletv": {
+      "name": "ShuttleTV",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://ghostflix.st",
-        "https://redflix.st",
-        "https://redflix.ac"
+        "https://shuttletv.pk",
+        "https://shuttletv.me"
+      ]
+    },
+    "sweetfox": {
+      "name": "SweetFox",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://sweetfox.st",
+        "http://sweetfox.app",
+        "https://67movies.st"
       ]
     },
     "dulo": {
@@ -140,6 +140,8 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
+        "https://way2movies.vip",
+        "https://old.way2movies.vip",
         "https://beta.way2movies.live",
         "https://way2movies.live"
       ]
@@ -159,16 +161,6 @@
       "hosts": [
         "https://reelix.ac",
         "https://coreflix.tv"
-      ]
-    },
-    "sweetfox": {
-      "name": "SweetFox",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://sweetfox.app",
-        "http://sweetfox.st",
-        "https://67movies.st"
       ]
     },
     "rive": {
@@ -209,6 +201,16 @@
       "starred": false,
       "hosts": [
         "https://cinelite.xyz"
+      ]
+    },
+    "ghostflix": {
+      "name": "Ghostflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://ghostflix.st",
+        "https://redflix.st",
+        "https://redflix.ac"
       ]
     },
     "bingebang": {
@@ -324,6 +326,14 @@
       "hosts": [
         "https://freekz.to",
         "https://zxcstream.com"
+      ]
+    },
+    "reeflix": {
+      "name": "Reeflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://reeflix.st"
       ]
     },
     "watched": {
@@ -629,12 +639,12 @@
         "https://streamwatch.pages.dev"
       ]
     },
-    "q62": {
-      "name": "Q62",
+    "lemovie": {
+      "name": "LE MOVIE",
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://q62flix.ws"
+        "https://lemovie.site"
       ]
     },
     "nepu": {
@@ -665,14 +675,6 @@
         "https://pressplayz.top"
       ]
     },
-    "lemovie": {
-      "name": "LE MOVIE",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://lemovie.site"
-      ]
-    },
     "arc018": {
       "name": "arc018",
       "section": "Dedicated-Server",
@@ -695,14 +697,6 @@
       "starred": false,
       "hosts": [
         "https://www.showbox.media"
-      ]
-    },
-    "cinemacity": {
-      "name": "CinemaCity",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://cinemacity.cc"
       ]
     },
     "flixtrz": {
@@ -832,6 +826,14 @@
         "https://www.downloads-anymovies.co"
       ]
     },
+    "q62": {
+      "name": "Q62",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://q62flix.ws"
+      ]
+    },
     "moviebox": {
       "name": "MovieBox",
       "section": "Dedicated-Server",
@@ -855,6 +857,14 @@
         "https://lookmovie4.to",
         "https://lookmovie5.to",
         "https://lookmovie6.to"
+      ]
+    },
+    "cinemacity": {
+      "name": "CinemaCity",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://cinemacity.cc"
       ]
     },
     "fusionmovies": {
@@ -901,20 +911,20 @@
         "https://zetmoon.live"
       ]
     },
-    "tonkacine": {
-      "name": "TonkaCine",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://tonkacine.watch"
-      ]
-    },
     "fireflix": {
       "name": "Fireflix",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://fireflix4.pages.dev"
+      ]
+    },
+    "tonkacine": {
+      "name": "TonkaCine",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://tonkacine.watch"
       ]
     },
     "cinewave": {
@@ -952,14 +962,6 @@
         "https://cinehd.vc"
       ]
     },
-    "youflex": {
-      "name": "Youflex",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://youflex.top"
-      ]
-    },
     "candlestream": {
       "name": "CandleStream",
       "section": "Multi-Server",
@@ -982,6 +984,22 @@
       "starred": false,
       "hosts": [
         "https://hdtoday.com.tr"
+      ]
+    },
+    "cineshine": {
+      "name": "Cineshine",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://cineshine.org"
+      ]
+    },
+    "youflex": {
+      "name": "Youflex",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://youflex.top"
       ]
     },
     "heartive": {
