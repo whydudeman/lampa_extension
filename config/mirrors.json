@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-23T13:59:37.710Z",
+  "updatedAt": "2026-11-24T14:31:12.185Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,14 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "flystream": {
-      "name": "FlyStream",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://flystream.net"
       ]
     },
     "vivarium": {
@@ -109,12 +101,20 @@
         "https://67movies.st"
       ]
     },
-    "dulo": {
-      "name": "dulo",
+    "flystream": {
+      "name": "FlyStream",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://dulo.mov"
+        "https://flystream.net"
+      ]
+    },
+    "cinelite": {
+      "name": "CineLite",
+      "section": "Stream Aggregators",
+      "starred": true,
+      "hosts": [
+        "https://cinelite.xyz"
       ]
     },
     "spacedom": {
@@ -195,14 +195,6 @@
         "https://hexa.su"
       ]
     },
-    "cinelite": {
-      "name": "CineLite",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://cinelite.xyz"
-      ]
-    },
     "ghostflix": {
       "name": "Ghostflix",
       "section": "Stream Aggregators",
@@ -211,6 +203,22 @@
         "https://ghostflix.st",
         "https://redflix.st",
         "https://redflix.ac"
+      ]
+    },
+    "dulo": {
+      "name": "dulo",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://dulo.mov"
+      ]
+    },
+    "vumeto": {
+      "name": "Vumeto",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://vumeto.live"
       ]
     },
     "bingebang": {
@@ -377,14 +385,6 @@
         "https://cinemaos.tech",
         "https://cinemaos.me",
         "https://cinemaos.in"
-      ]
-    },
-    "vumeto": {
-      "name": "Vumeto",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://vumeto.live"
       ]
     },
     "stellar": {
@@ -635,8 +635,17 @@
       "starred": false,
       "hosts": [
         "https://streamwatch.online",
-        "https://pstream.site",
-        "https://streamwatch.pages.dev"
+        "https://pstream.site"
+      ]
+    },
+    "cno": {
+      "name": "Cno",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://cno.to",
+        "https://beta.cno.to",
+        "https://fli.cx"
       ]
     },
     "lemovie": {
@@ -655,16 +664,6 @@
         "https://nepu.io",
         "https://nepu.is",
         "https://nepu.app"
-      ]
-    },
-    "cno": {
-      "name": "Cno",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://cno.to",
-        "https://beta.cno.to",
-        "https://fli.cx"
       ]
     },
     "pressplay": {
@@ -970,6 +969,14 @@
         "https://candlestream.xyz"
       ]
     },
+    "pieprime": {
+      "name": "PiePrime",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://pieprime.cc"
+      ]
+    },
     "comvie": {
       "name": "Comvie",
       "section": "Multi-Server",
@@ -1024,6 +1031,14 @@
       "starred": false,
       "hosts": [
         "https://bingeflix.tv"
+      ]
+    },
+    "aloso": {
+      "name": "Aloso",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://aloso.vercel.app"
       ]
     },
     "watchseries": {
