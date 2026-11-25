@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-24T14:31:12.185Z",
+  "updatedAt": "2026-11-25T13:52:22.846Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,14 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "vivarium": {
-      "name": "Vivarium",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://vivarium.st"
       ]
     },
     "arrowtv": {
@@ -106,7 +98,8 @@
       "section": "Stream Aggregators",
       "starred": true,
       "hosts": [
-        "https://flystream.net"
+        "https://flystream.net",
+        "https://flystream.pk"
       ]
     },
     "cinelite": {
@@ -117,12 +110,13 @@
         "https://cinelite.xyz"
       ]
     },
-    "spacedom": {
-      "name": "Spacedom",
+    "vivarium": {
+      "name": "Vivarium",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://spacedom.live"
+        "https://vivarium.st",
+        "https://vivarium.cx"
       ]
     },
     "chillflix": {
@@ -190,7 +184,6 @@
       "starred": false,
       "hosts": [
         "https://flixer.gd",
-        "https://flixer.su",
         "https://flixer.cx",
         "https://hexa.su"
       ]
@@ -221,12 +214,20 @@
         "https://vumeto.live"
       ]
     },
+    "spacedom": {
+      "name": "Spacedom",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://spacedom.live"
+      ]
+    },
     "bingebang": {
       "name": "BingeBang",
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://bingebang.st"
+        "https://bingebang.sx"
       ]
     },
     "lightflix": {
@@ -403,6 +404,14 @@
         "https://4movie.in"
       ]
     },
+    "kaizoku": {
+      "name": "Kaizoku",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://kaizoku.site"
+      ]
+    },
     "driftly": {
       "name": "driftly",
       "section": "Stream Aggregators",
@@ -434,6 +443,22 @@
       "starred": false,
       "hosts": [
         "https://vidplay.to"
+      ]
+    },
+    "pflix": {
+      "name": "PFlix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://pflix.net"
+      ]
+    },
+    "tonitrus": {
+      "name": "Tonitrus",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://tonitrus.online"
       ]
     },
     "hivex": {
@@ -476,6 +501,14 @@
       "starred": false,
       "hosts": [
         "https://cineruv.website"
+      ]
+    },
+    "cinebros": {
+      "name": "CineBros",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://cinebros.net"
       ]
     },
     "3eyedraven": {
@@ -586,6 +619,14 @@
         "https://allaboutmovies.pages.dev"
       ]
     },
+    "basement": {
+      "name": "Basement",
+      "section": "P-Stream Forks",
+      "starred": false,
+      "hosts": [
+        "https://basementx.lol"
+      ]
+    },
     "aether": {
       "name": "Aether",
       "section": "P-Stream Forks",
@@ -594,14 +635,6 @@
         "https://aether.st",
         "https://aether.cx",
         "https://aether.ist"
-      ]
-    },
-    "basement": {
-      "name": "Basement",
-      "section": "P-Stream Forks",
-      "starred": false,
-      "hosts": [
-        "https://basementx.lol"
       ]
     },
     "kstream": {
@@ -648,14 +681,6 @@
         "https://fli.cx"
       ]
     },
-    "lemovie": {
-      "name": "LE MOVIE",
-      "section": "Dedicated-Server",
-      "starred": false,
-      "hosts": [
-        "https://lemovie.site"
-      ]
-    },
     "nepu": {
       "name": "NEPU",
       "section": "Dedicated-Server",
@@ -664,6 +689,14 @@
         "https://nepu.io",
         "https://nepu.is",
         "https://nepu.app"
+      ]
+    },
+    "lemovie": {
+      "name": "LE MOVIE",
+      "section": "Dedicated-Server",
+      "starred": false,
+      "hosts": [
+        "https://lemovie.site"
       ]
     },
     "pressplay": {
@@ -969,22 +1002,6 @@
         "https://candlestream.xyz"
       ]
     },
-    "pieprime": {
-      "name": "PiePrime",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://pieprime.cc"
-      ]
-    },
-    "comvie": {
-      "name": "Comvie",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://comvie.lol"
-      ]
-    },
     "hdtoday": {
       "name": "HDToday",
       "section": "Multi-Server",
@@ -999,6 +1016,14 @@
       "starred": false,
       "hosts": [
         "https://cineshine.org"
+      ]
+    },
+    "comvie": {
+      "name": "Comvie",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://comvie.lol"
       ]
     },
     "youflex": {
@@ -1023,14 +1048,6 @@
       "starred": false,
       "hosts": [
         "https://flyflix.cc"
-      ]
-    },
-    "bingeflix": {
-      "name": "Bingeflix",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://bingeflix.tv"
       ]
     },
     "aloso": {
@@ -1059,20 +1076,20 @@
         "https://flixvo.fun"
       ]
     },
-    "onoflix": {
-      "name": "ONOFLIX",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://onoflix.live"
-      ]
-    },
     "fliker": {
       "name": "FLIKER",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
         "https://fliker.freebuff.app"
+      ]
+    },
+    "bingeflix": {
+      "name": "Bingeflix",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://bingeflix.tv"
       ]
     },
     "streamex": {
@@ -1082,14 +1099,6 @@
       "hosts": [
         "https://streamex.hn",
         "https://streamex.ws"
-      ]
-    },
-    "snowstream": {
-      "name": "Snowstream",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://snowstream.vercel.app"
       ]
     },
     "cinenest": {
@@ -1114,15 +1123,6 @@
       "starred": false,
       "hosts": [
         "https://cinebytv.com"
-      ]
-    },
-    "moviepire": {
-      "name": "Moviepire",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://moviepire.ru",
-        "https://phland.org"
       ]
     },
     "milkbox": {
@@ -1174,6 +1174,15 @@
       "starred": false,
       "hosts": [
         "https://www.moviestowatch.top"
+      ]
+    },
+    "moviepire": {
+      "name": "Moviepire",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://moviepire.ru",
+        "https://phland.org"
       ]
     },
     "ev01": {
