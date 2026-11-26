@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-25T13:52:22.846Z",
+  "updatedAt": "2026-11-26T13:31:07.960Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,17 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "arrowtv": {
-      "name": "ArrowTV",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://arrowtv.net",
-        "https://arrowtv.st",
-        "https://www.cinezo.st",
-        "https://www.flikhub.net"
       ]
     },
     "movy": {
@@ -119,14 +108,15 @@
         "https://vivarium.cx"
       ]
     },
-    "chillflix": {
-      "name": "Chillflix",
+    "arrowtv": {
+      "name": "ArrowTV",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://chillflix.lol",
-        "https://toflix.co",
-        "https://vuflix.co"
+        "https://arrowtv.net",
+        "https://arrowtv.st",
+        "https://www.cinezo.st",
+        "https://www.flikhub.net"
       ]
     },
     "way2movies": {
@@ -230,6 +220,16 @@
         "https://bingebang.sx"
       ]
     },
+    "chillflix": {
+      "name": "Chillflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://chillflix.lol",
+        "https://toflix.co",
+        "https://vuflix.co"
+      ]
+    },
     "lightflix": {
       "name": "Lightflix",
       "section": "Stream Aggregators",
@@ -320,6 +320,14 @@
         "https://nexa.mov"
       ]
     },
+    "4movie": {
+      "name": "4Movie",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://4movie.in"
+      ]
+    },
     "thugtv": {
       "name": "ThugTV",
       "section": "Stream Aggregators",
@@ -394,14 +402,6 @@
       "starred": false,
       "hosts": [
         "https://stellar.rip"
-      ]
-    },
-    "4movie": {
-      "name": "4Movie",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://4movie.in"
       ]
     },
     "kaizoku": {
@@ -624,7 +624,7 @@
       "section": "P-Stream Forks",
       "starred": false,
       "hosts": [
-        "https://basementx.lol"
+        "https://basementx.rest"
       ]
     },
     "aether": {
@@ -1018,6 +1018,14 @@
         "https://cineshine.org"
       ]
     },
+    "aloso": {
+      "name": "Aloso",
+      "section": "Multi-Server",
+      "starred": false,
+      "hosts": [
+        "https://aloso.vercel.app"
+      ]
+    },
     "comvie": {
       "name": "Comvie",
       "section": "Multi-Server",
@@ -1050,14 +1058,6 @@
         "https://flyflix.cc"
       ]
     },
-    "aloso": {
-      "name": "Aloso",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://aloso.vercel.app"
-      ]
-    },
     "watchseries": {
       "name": "WatchSeries",
       "section": "Multi-Server",
@@ -1074,14 +1074,6 @@
       "hosts": [
         "https://flixvo.pro",
         "https://flixvo.fun"
-      ]
-    },
-    "fliker": {
-      "name": "FLIKER",
-      "section": "Multi-Server",
-      "starred": false,
-      "hosts": [
-        "https://fliker.freebuff.app"
       ]
     },
     "bingeflix": {
