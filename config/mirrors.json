@@ -1,6 +1,6 @@
 {
   "source": "https://raw.githubusercontent.com/fmhy/edit/main/docs/video.md",
-  "updatedAt": "2026-11-26T13:31:07.960Z",
+  "updatedAt": "2026-11-27T13:27:36.348Z",
   "sites": {
     "7": {
       "name": "7+",
@@ -8,14 +8,6 @@
       "starred": false,
       "hosts": [
         "https://7plus.com.au"
-      ]
-    },
-    "movy": {
-      "name": "Movy",
-      "section": "Stream Aggregators",
-      "starred": true,
-      "hosts": [
-        "https://www.movy.sx"
       ]
     },
     "cinejoy": {
@@ -79,7 +71,7 @@
       "hosts": [
         "https://sweetfox.st",
         "http://sweetfox.app",
-        "https://67movies.st"
+        "https://111flix.net"
       ]
     },
     "flystream": {
@@ -119,15 +111,12 @@
         "https://www.flikhub.net"
       ]
     },
-    "way2movies": {
-      "name": "Way2Movies",
+    "movy": {
+      "name": "Movy",
       "section": "Stream Aggregators",
-      "starred": false,
+      "starred": true,
       "hosts": [
-        "https://way2movies.vip",
-        "https://old.way2movies.vip",
-        "https://beta.way2movies.live",
-        "https://way2movies.live"
+        "https://www.movy.sx"
       ]
     },
     "moanatv": {
@@ -153,8 +142,9 @@
       "starred": false,
       "hosts": [
         "https://www.rivestream.app",
-        "https://rivestream.ru",
-        "https://rivestream.win",
+        "https://rivestream.st",
+        "https://rivestream.pro",
+        "https://rivestream.cz",
         "https://watch.corsflix.net",
         "https://watch.corsflix.dpdns.org"
       ]
@@ -230,6 +220,17 @@
         "https://vuflix.co"
       ]
     },
+    "way2movies": {
+      "name": "Way2Movies",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://way2movies.vip",
+        "https://old.way2movies.vip",
+        "https://beta.way2movies.live",
+        "https://way2movies.live"
+      ]
+    },
     "lightflix": {
       "name": "Lightflix",
       "section": "Stream Aggregators",
@@ -264,6 +265,14 @@
         "https://sleepy.lat"
       ]
     },
+    "reeflix": {
+      "name": "Reeflix",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://reeflix.st"
+      ]
+    },
     "movienight": {
       "name": "Movie Night",
       "section": "Stream Aggregators",
@@ -286,6 +295,16 @@
       "starred": false,
       "hosts": [
         "https://moviebite.org"
+      ]
+    },
+    "svstream": {
+      "name": "SvStream",
+      "section": "Stream Aggregators",
+      "starred": false,
+      "hosts": [
+        "https://svstream.cc",
+        "https://nomorflix.cc",
+        "https://diostream.cc"
       ]
     },
     "moonflix": {
@@ -343,14 +362,6 @@
       "hosts": [
         "https://freekz.to",
         "https://zxcstream.com"
-      ]
-    },
-    "reeflix": {
-      "name": "Reeflix",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://reeflix.st"
       ]
     },
     "watched": {
@@ -485,16 +496,6 @@
         "https://web.nxsha.app"
       ]
     },
-    "svstream": {
-      "name": "SvStream",
-      "section": "Stream Aggregators",
-      "starred": false,
-      "hosts": [
-        "https://svstream.cc",
-        "https://nomorflix.cc",
-        "https://diostream.cc"
-      ]
-    },
     "cineruv": {
       "name": "cineruv",
       "section": "Stream Aggregators",
@@ -608,7 +609,7 @@
       "section": "Stream Aggregators",
       "starred": false,
       "hosts": [
-        "https://framextv.xyz"
+        "https://framextv.cc"
       ]
     },
     "allaboutmovies": {
@@ -624,7 +625,7 @@
       "section": "P-Stream Forks",
       "starred": false,
       "hosts": [
-        "https://basementx.rest"
+        "https://basement.rest"
       ]
     },
     "aether": {
@@ -720,7 +721,7 @@
       "section": "Dedicated-Server",
       "starred": false,
       "hosts": [
-        "https://streamingunity.fun"
+        "https://streamingunity.day"
       ]
     },
     "showbox": {
@@ -907,12 +908,12 @@
         "https://www4.fusionmovies.to"
       ]
     },
-    "1shows": {
-      "name": "1Shows",
+    "1waves": {
+      "name": "1Waves",
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "http://1shows.org",
+        "http://1waves.gd",
         "https://www.1flex.org",
         "https://www.1tube.org"
       ]
@@ -922,7 +923,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://anicine.sbs"
+        "https://anicine.live"
       ]
     },
     "primeshows": {
@@ -1055,7 +1056,7 @@
       "section": "Multi-Server",
       "starred": false,
       "hosts": [
-        "https://flyflix.cc"
+        "https://flyflix.app"
       ]
     },
     "watchseries": {
